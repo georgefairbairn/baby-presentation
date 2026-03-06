@@ -1,0 +1,438 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap');
+
+:root {
+  --pink-light: #FFF0F5;
+  --pink-mid: #FFB6C1;
+  --pink-hot: #FF69B4;
+  --pink-deep: #FF1493;
+  --charcoal: #2D2D2D;
+  --pregnancy-accent: #9B59B6;
+  --birth-accent: #E74C3C;
+  --firstyear-accent: #1ABC9C;
+  --finance-accent: #F39C12;
+}
+
+/* ─── Base Theme ─── */
+.reveal-viewport {
+  background: linear-gradient(135deg, #FFB6C1 0%, #FFF0F5 50%, #FFE4E1 100%);
+}
+
+.reveal {
+  font-family: 'Nunito', sans-serif;
+  font-size: 32px;
+  color: var(--charcoal);
+}
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4 {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 800;
+  color: var(--pink-deep);
+  text-transform: none;
+  letter-spacing: -0.02em;
+}
+
+.reveal h1 { font-size: 2.2em; }
+.reveal h2 { font-size: 1.6em; }
+.reveal h3 { font-size: 1.2em; color: var(--pink-hot); }
+
+.reveal p, .reveal li {
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+.reveal ul { list-style: none; padding-left: 0; }
+.reveal ul li::before {
+  content: "\2022";
+  color: var(--pink-hot);
+  font-weight: bold;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.reveal ul { padding-left: 1em; }
+
+.reveal strong { color: var(--pink-deep); }
+
+/* ─── Title Slide ─── */
+.title-slide h1 {
+  font-size: 2.8em;
+  color: var(--pink-deep);
+  text-shadow: 2px 2px 0 rgba(255,105,180,0.3);
+  animation: bounceIn 1s ease-out;
+}
+
+.title-slide .subtitle {
+  font-size: 1.1em;
+  color: var(--pink-hot);
+  font-style: italic;
+  font-weight: 600;
+}
+
+.section-labels {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 40px;
+  flex-wrap: wrap;
+}
+
+.section-labels span {
+  background: rgba(255,255,255,0.7);
+  padding: 8px 18px;
+  border-radius: 20px;
+  font-size: 0.6em;
+  font-weight: 700;
+  backdrop-filter: blur(4px);
+}
+
+/* ─── Agenda Cards ─── */
+.agenda-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.agenda-card {
+  background: rgba(255,255,255,0.85);
+  border-radius: 16px;
+  padding: 24px 20px;
+  text-align: center;
+  box-shadow: 0 4px 15px rgba(255,20,147,0.15);
+  transition: transform 0.3s ease;
+}
+
+.agenda-card:hover {
+  transform: translateY(-4px);
+}
+
+.agenda-card .emoji {
+  font-size: 2em;
+  display: block;
+  margin-bottom: 8px;
+  animation: bounce 2s infinite;
+}
+
+.agenda-card h3 {
+  margin: 4px 0;
+  font-size: 0.85em;
+}
+
+.agenda-card p {
+  font-size: 0.55em;
+  color: #666;
+  margin: 0;
+}
+
+/* ─── Section Dividers ─── */
+.section-divider {
+  text-align: center;
+}
+
+.section-divider .big-emoji {
+  font-size: 4em;
+  display: block;
+  margin-bottom: 20px;
+  animation: bounce 1.5s ease infinite;
+}
+
+.section-divider h1 {
+  color: white !important;
+  font-size: 2.4em;
+  text-shadow: 2px 3px 0 rgba(0,0,0,0.15);
+}
+
+.divider-pregnancy { background: linear-gradient(135deg, #9B59B6, #8E44AD) !important; }
+.divider-birth { background: linear-gradient(135deg, #E74C3C, #C0392B) !important; }
+.divider-firstyear { background: linear-gradient(135deg, #1ABC9C, #16A085) !important; }
+.divider-finance { background: linear-gradient(135deg, #F39C12, #E67E22) !important; }
+
+/* ─── Quiz Slides ─── */
+.quiz-slide h2 {
+  font-size: 1.3em;
+  margin-bottom: 30px;
+}
+
+.quiz-options {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.quiz-option {
+  background: rgba(255,255,255,0.85);
+  border: 3px solid transparent;
+  border-radius: 14px;
+  padding: 18px 16px;
+  font-size: 0.75em;
+  font-weight: 700;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.08);
+}
+
+.quiz-option:hover {
+  transform: scale(1.03);
+  box-shadow: 0 5px 20px rgba(255,20,147,0.2);
+}
+
+.quiz-option.correct {
+  border-color: #2ECC71;
+  background: rgba(46,204,113,0.15);
+  animation: correctPulse 0.6s ease;
+}
+
+.quiz-option.incorrect {
+  opacity: 0.4;
+}
+
+.quiz-bonus {
+  margin-top: 24px;
+  background: rgba(255,255,255,0.75);
+  border-left: 4px solid var(--pink-hot);
+  border-radius: 0 12px 12px 0;
+  padding: 16px 20px;
+  font-size: 0.65em;
+  text-align: left;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.quiz-bonus strong { color: var(--pink-deep); }
+
+/* ─── Content Slides ─── */
+.content-slide {
+  text-align: left;
+}
+
+.content-slide h2 {
+  margin-bottom: 20px;
+  font-size: 1.4em;
+}
+
+.content-slide ul {
+  font-size: 0.72em;
+}
+
+.content-slide li {
+  margin-bottom: 6px;
+}
+
+.callout-box {
+  background: rgba(255,255,255,0.8);
+  border-radius: 12px;
+  padding: 16px 20px;
+  margin-top: 16px;
+  border-left: 4px solid var(--pink-hot);
+  font-size: 0.7em;
+}
+
+.stat-highlight {
+  font-size: 2em;
+  font-weight: 900;
+  color: var(--pink-deep);
+  text-align: center;
+  margin: 10px 0;
+}
+
+.two-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  font-size: 0.72em;
+}
+
+.col {
+  background: rgba(255,255,255,0.6);
+  border-radius: 12px;
+  padding: 16px;
+}
+
+.col h3 {
+  margin-top: 0;
+  font-size: 1.1em;
+}
+
+/* Traffic-light urgency boxes */
+.urgency-red {
+  background: rgba(231,76,60,0.1);
+  border-left: 4px solid #E74C3C;
+  border-radius: 0 10px 10px 0;
+  padding: 12px 16px;
+  margin-bottom: 10px;
+  font-size: 0.68em;
+}
+
+.urgency-amber {
+  background: rgba(243,156,18,0.1);
+  border-left: 4px solid #F39C12;
+  border-radius: 0 10px 10px 0;
+  padding: 12px 16px;
+  margin-bottom: 10px;
+  font-size: 0.68em;
+}
+
+.urgency-green {
+  background: rgba(46,204,113,0.1);
+  border-left: 4px solid #2ECC71;
+  border-radius: 0 10px 10px 0;
+  padding: 12px 16px;
+  margin-bottom: 10px;
+  font-size: 0.68em;
+}
+
+/* ─── Fruit size timeline ─── */
+.fruit-timeline {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+  margin: 16px 0;
+  padding: 12px;
+  background: rgba(255,255,255,0.6);
+  border-radius: 14px;
+}
+
+.fruit-item {
+  text-align: center;
+  font-size: 0.6em;
+}
+
+.fruit-item .fruit-emoji {
+  font-size: 2em;
+  display: block;
+  animation: bounce 2.5s infinite;
+  animation-delay: var(--delay, 0s);
+}
+
+.fruit-item .fruit-label {
+  display: block;
+  font-weight: 700;
+  color: var(--pink-deep);
+  margin-top: 4px;
+}
+
+/* ─── Milestone timeline ─── */
+.milestone-card {
+  background: rgba(255,255,255,0.8);
+  border-radius: 14px;
+  padding: 20px;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.milestone-card h3 {
+  color: var(--firstyear-accent);
+  margin-top: 0;
+}
+
+.milestone-card ul {
+  font-size: 0.75em;
+}
+
+/* ─── Closing Slide ─── */
+.closing-slide {
+  text-align: center;
+}
+
+.closing-slide h1 {
+  font-size: 2.2em;
+  animation: bounceIn 1s ease-out;
+}
+
+.closing-slide p {
+  font-size: 0.8em;
+  max-width: 600px;
+  margin: 10px auto;
+  line-height: 1.6;
+}
+
+.closing-slide .heart {
+  font-size: 3em;
+  display: inline-block;
+  animation: heartbeat 1.5s infinite;
+}
+
+/* ─── Cost cards ─── */
+.cost-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+  font-size: 0.65em;
+}
+
+.cost-card {
+  background: rgba(255,255,255,0.8);
+  border-radius: 12px;
+  padding: 14px;
+  text-align: center;
+}
+
+.cost-card .price {
+  font-size: 1.4em;
+  font-weight: 900;
+  color: var(--finance-accent);
+}
+
+/* ─── Animations ─── */
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+@keyframes bounceIn {
+  0% { transform: scale(0.3); opacity: 0; }
+  50% { transform: scale(1.05); }
+  70% { transform: scale(0.95); }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+@keyframes correctPulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.08); box-shadow: 0 0 30px rgba(46,204,113,0.5); }
+  100% { transform: scale(1); }
+}
+
+@keyframes heartbeat {
+  0%, 100% { transform: scale(1); }
+  15% { transform: scale(1.15); }
+  30% { transform: scale(1); }
+  45% { transform: scale(1.1); }
+}
+
+@keyframes fadeSlideUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Fragment overrides */
+.reveal .slides section .fragment.grow.visible {
+  transform: scale(1);
+}
+
+.reveal .slides section .fragment.custom.visible {
+  animation: fadeSlideUp 0.5s ease forwards;
+}
+
+/* ─── Responsive ─── */
+@media (max-width: 768px) {
+  .agenda-grid, .quiz-options, .two-col, .cost-grid {
+    grid-template-columns: 1fr;
+  }
+  .fruit-timeline {
+    flex-wrap: wrap;
+  }
+}
+
+/* ─── Progress bar ─── */
+.reveal .progress span {
+  background: var(--pink-deep);
+}
+
+.reveal .controls {
+  color: var(--pink-hot);
+}
