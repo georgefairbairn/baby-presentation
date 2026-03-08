@@ -64,7 +64,6 @@
 .title-slide .subtitle {
   font-size: 1.1em;
   color: var(--pink-hot);
-  font-style: italic;
   font-weight: 600;
 }
 
@@ -143,10 +142,15 @@
   text-shadow: 2px 3px 0 rgba(0,0,0,0.15);
 }
 
-.divider-pregnancy { background: linear-gradient(135deg, #9B59B6, #8E44AD) !important; }
-.divider-birth { background: linear-gradient(135deg, #E74C3C, #C0392B) !important; }
-.divider-firstyear { background: linear-gradient(135deg, #1ABC9C, #16A085) !important; }
-.divider-finance { background: linear-gradient(135deg, #F39C12, #E67E22) !important; }
+.divider-pregnancy h1 { color: #7C3AED !important; text-shadow: 2px 3px 0 rgba(124,58,237,0.15); }
+.divider-birth h1 { color: #0284C7 !important; text-shadow: 2px 3px 0 rgba(2,132,199,0.15); }
+
+.divider-pregnancy { background: linear-gradient(135deg, #D8B4FE, #E9D5FF, #C4B5FD) !important; }
+.divider-birth { background: linear-gradient(135deg, #BAE6FD, #E0F2FE, #A5D8FF) !important; }
+.divider-firstyear { background: linear-gradient(135deg, #A7F3D0, #D1FAE5, #6EE7B7) !important; }
+.divider-firstyear h1 { color: #059669 !important; text-shadow: 2px 3px 0 rgba(5,150,105,0.15); }
+.divider-finance { background: linear-gradient(135deg, #FDE68A, #FEF3C7, #FCD34D) !important; }
+.divider-finance h1 { color: #D97706 !important; text-shadow: 2px 3px 0 rgba(217,119,6,0.15); }
 
 /* ─── Quiz Slides ─── */
 .quiz-slide h2 {
@@ -183,7 +187,7 @@
 .quiz-option.correct {
   border-color: #2ECC71;
   background: rgba(46,204,113,0.15);
-  animation: correctPulse 0.6s ease;
+  animation: correctFlash 0.8s ease infinite;
 }
 
 .quiz-option.incorrect {
@@ -395,6 +399,11 @@
   0% { transform: scale(1); }
   50% { transform: scale(1.08); box-shadow: 0 0 30px rgba(46,204,113,0.5); }
   100% { transform: scale(1); }
+}
+
+@keyframes correctFlash {
+  0%, 100% { background: rgba(46,204,113,0.15); box-shadow: 0 0 0 rgba(46,204,113,0); }
+  50% { background: rgba(46,204,113,0.45); box-shadow: 0 0 25px rgba(46,204,113,0.5); transform: scale(1.05); }
 }
 
 @keyframes heartbeat {
