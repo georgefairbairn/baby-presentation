@@ -101,6 +101,14 @@ The main message: if in doubt, always call. Nobody will think you're overreactin
 - Sperm health matters too. General fitness, healthy weight. Sperm takes about 3 months to develop so lifestyle changes now show up later.
 - Family history on both sides - any genetic conditions worth knowing about.
 
+## Slide 18: If It Doesn't Happen Straight Away
+"I wanted to put this in deliberately, because everything else in this deck assumes we get pregnant and I don't want that to be the only story we've told ourselves."
+- Roughly a 1 in 4 chance in any given cycle. About 85% of couples conceive within a year. So a few months of nothing is the normal experience, not a warning sign.
+- The medical trigger for asking for help is 12 months of trying, or 6 months if either of us is over 35.
+- First round of tests is genuinely simple - bloods, an ultrasound, a semen analysis. And it's both of us tested, not just you. Worth saying out loud.
+- BC started funding IVF in July 2025 - up to $19,000 for one cycle, income-tested, with the full amount below $100k household income. Applicant has to be 41 or under. Good to know it exists; hopefully irrelevant.
+- The line that matters: **the plan is September, and if it isn't September that's still completely normal.** Neither of us should be treating month three as a failure.
+
 ## Slide 19: During Pregnancy Do's & Don'ts
 Mostly self-explanatory from the cards, but worth adding:
 - **Exercise**: 150 mins/week is the guideline. Walking and swimming are great throughout. Prenatal yoga is specifically designed. It's about maintaining, not starting an intense new regime.
@@ -343,8 +351,12 @@ Nappies, wipes, formula (if using), clothing (they grow fast).
 - Waitlists are real - some people get on lists before the baby is born.
 - Worth exploring: family help, nanny shares, different neighbourhood options.
 
-## Slide 63: Other Ongoing Costs
-Activities, healthcare not covered by MSP (dental for us, some prescriptions), bigger car eventually, possibly a bigger place.
+## Slide 63: Other Costs to Budget For
+Activities, healthcare not covered by MSP (dental for us, some prescriptions), bigger car eventually, possibly a bigger place. Three that people forget:
+- **Pelvic floor physio** - ~$120/session, not MSP covered. Much more standard practice here than at home and genuinely worth budgeting for rather than treating as optional.
+- **Doula** - $1,200-2,500 one-off if we want one. Not covered.
+- **Lactation consultant** - $150-250/visit privately, but the hospital ones are free. Use those first.
+- **The deadline:** most Canadian employer benefit plans give you only **30 days from the birth** to add the baby to the plan. Miss it and you're waiting for open enrolment. Worth putting in the calendar now.
 
 ## Slide 64-65: Quiz - Savings Target
 Let the quiz play out. The point isn't to hit an exact number - it's to have a buffer for the reduced income period during parental leave.
@@ -356,6 +368,7 @@ Let the quiz play out. The point isn't to hit an exact number - it's to have a b
 - There's a 1-week unpaid waiting period at the start of the claim.
 - EI under-withholds tax, so plan for a bill at filing time. This catches a lot of people out.
 - Some employers offer top-up - worth checking.
+- Concretely: the cap is $3,158/month gross before tax. Everything either of us earns above $68,900 adds nothing to the payment, which is why the drop feels steeper than "55%" sounds.
 
 ## Slide 68: Parental Leave Options
 - **Standard**: up to 35 weeks each at 55% ($729/week cap), max 40 weeks when shared.
@@ -363,7 +376,24 @@ Let the quiz play out. The point isn't to hit an exact number - it's to have a b
 - Total with maternity: up to 50 weeks (standard) or 76 weeks (extended) for one parent taking the lot.
 - The extra 5 weeks (standard) or 8 weeks (extended) aren't reserved for me specifically - they're bonus weeks that only unlock if we *both* take some leave. So there's free money in me taking a block.
 - Can be shared between parents. Worth thinking about who takes what and when.
+- **The counterintuitive bit:** 18 months isn't less money overall, it's the same money spread thinner. One parent taking the lot gets ~$36,450 over 12 months ($3,038/mo) on standard, or ~$37,592 over 18 months ($2,088/mo) on extended. Extended is actually slightly more in total. The real question is monthly cashflow, not total.
+- Canada Child Benefit is up to $8,157/year per child under 6, tax-free and income-tested. Apply at birth.
 - Plan for the reduced income period - this is where the savings target matters.
+
+## Slide 69: The House & The Baby
+"You said this might not be relevant. I think it actually is."
+- **Mortgage timing is the big one.** A lot of Canadian lenders won't count EI income in full, so qualifying while one of us is on leave is harder. If we're buying, we want to be pre-approved and closed while we're both on full salary.
+- The deposit and the parental-leave buffer are the same pot of money. We can't count it twice - that's the honest tension between the two plans.
+- **Childcare waitlists are neighbourhood-specific and 12-18 months long.** If we register in one area and then move, we can lose our place. Argues for deciding roughly where we're going to be before we join lists.
+- A move mid-pregnancy can also mean changing midwife and which hospital we deliver at.
+- Don't move at 36 weeks or with a two-week-old. Second trimester is the window - that's when she'll have the most energy.
+- **Suggested order:** conceive, get pre-approved and close while we're both earning, move in the second trimester, then go on leave. February onwards works fine as long as the mortgage lands before the leave does.
+
+## Slide 70: Over to You
+This is the point where I stop talking.
+- Don't rush it. Let her react to the whole thing first - she may want to go back to specific slides.
+- The eight questions aren't a checklist to get through tonight. If we only get through two, that's a good evening.
+- The one worth actually landing: **who takes which weeks of leave.** It's the decision with the longest lead time and the biggest financial consequence, and it's the one where I should be offering to take more rather than waiting to be asked.
 
 ---
 
