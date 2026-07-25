@@ -377,8 +377,19 @@ Let the quiz play out. The point isn't to hit an exact number - it's to have a b
 - The extra 5 weeks (standard) or 8 weeks (extended) aren't reserved for me specifically - they're bonus weeks that only unlock if we *both* take some leave. So there's free money in me taking a block.
 - Can be shared between parents. Worth thinking about who takes what and when.
 - **The counterintuitive bit:** 18 months isn't less money overall, it's the same money spread thinner. One parent taking the lot gets ~$36,450 over 12 months ($3,038/mo) on standard, or ~$37,592 over 18 months ($2,088/mo) on extended. Extended is actually slightly more in total. The real question is monthly cashflow, not total.
-- Canada Child Benefit is up to $8,157/year per child under 6, tax-free and income-tested. Apply at birth.
+- Canada Child Benefit maxes at $8,157/year per child under 6, but it's income-tested and at our level it comes to $0. Apply anyway so we're registered - just don't budget for it.
 - Plan for the reduced income period - this is where the savings target matters.
+
+## Slide 68b: What This Actually Costs Us
+This is the slide to slow down on. Everything else in Part 4 is context for this one.
+- Household gross today is about $32,300/month. With Izzy on leave and me working, it's about $21,000 - a drop of $11,300/month, or 35%.
+- If we ever overlap our leave, it's $6,300/month. An 80% cut. Worth doing for a couple of weeks around the birth; not for months.
+- Across the whole first year (Izzy 50 weeks, me 5) the household goes from ~$388,000 to ~$234,000. About $154,000 less. That's the real number.
+- **The softener:** Izzy's taxable income drops from $173,500 to about $36,500, so her average tax rate falls a long way. The net hit is meaningfully gentler than the gross figures suggest.
+- **The thing I got wrong at first:** the Canada Child Benefit fully phases out around $220k of household income. We're well past that, so it's $0 for us. Still worth registering at birth, but nothing to budget.
+- **The RESP grant is different** - the basic 20% top-up isn't income-tested, so $2,500/year in gets $500 free regardless of what we earn.
+- **To check:** whether my bonus reduces my EI if it's paid during any leave weeks I take. Worth a question to HR before we decide who takes what.
+- The honest framing: the question isn't whether $21,000/month is a lot. It's whether our actual spending fits inside it. That's the conversation, and I don't think either of us knows the answer yet.
 
 ## Slide 69: The House & The Baby
 "You said this might not be relevant. I think it actually is."
