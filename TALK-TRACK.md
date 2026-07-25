@@ -23,7 +23,7 @@ No extra detail needed, just transition.
 **Milestones - extra detail:**
 - The growth is insane. At week 4 it's a poppy seed, by week 12 it's a lemon. All the major organs form in this window which is why the first trimester matters so much.
 - The dating ultrasound at 8-10 weeks is usually the first time you see anything. It's basically a blob with a heartbeat but it's surreal.
-- Miscarriage risk is highest here - about 1 in 4 pregnancies end in the first trimester. It's why a lot of people wait until 12 weeks to tell anyone. We can decide together what feels right for us.
+- Miscarriage risk is highest here - about 1 in 8 known pregnancies end in loss, and around 80% of those happen in the first 12 weeks. It's why a lot of people wait until 12 weeks to tell anyone. We can decide together what feels right for us.
 
 **Symptoms - extra detail:**
 - "Morning sickness" is genuinely the worst name for anything in medicine. It can hit any time, all day. For some people it's mild nausea, for others it's constant vomiting. It usually eases by week 14-16 but not always.
@@ -43,7 +43,7 @@ No extra detail needed, just transition.
 **Milestones - extra detail:**
 - Baby is packing on about half a pound a week in the third trimester. Going from roughly 2 pounds at week 27 to 6-9 pounds at birth.
 - Braxton Hicks are practice contractions - your uterus tightening and releasing. They shouldn't be painful, more uncomfortable. If they become regular or painful, that's different.
-- Group B strep test at week 36 is a simple swab. About 25% of women carry it. If positive, you get IV antibiotics during labour. Not a big deal but important to know about.
+- Group B strep test at weeks 35-37 is a simple swab. About 25% of women carry it. If positive, you get IV antibiotics during labour. Not a big deal but important to know about.
 - "Baby drops" (lightening) means the baby's head engages in the pelvis. You'll feel like you can breathe again but you'll need to wee even more.
 
 **Symptoms - extra detail:**
@@ -59,7 +59,7 @@ No extra detail needed, just transition.
 **Avoid - extra detail:**
 - The alcohol one is straightforward - no known safe amount during pregnancy.
 - The food rules can feel overwhelming. The short version: nothing raw or undercooked, no soft mould-ripened cheeses (brie, camembert), no pate. The risk is listeria and toxoplasmosis - rare but serious.
-- Caffeine under 200mg is about one regular coffee or two teas a day. Doesn't have to be zero but worth being mindful of.
+- Health Canada's limit is 300mg a day - about two coffees. Doesn't have to be zero but worth being mindful of. (The NHS figure you may remember is stricter at 200mg.)
 
 ## Slide 14: Healthcare in Canada
 This is a big one because it's different from the UK. "Healthcare here isn't like the NHS where you just get assigned someone. We actually have to choose between a midwife and an OB-GYN, and both are fully covered by provincial insurance."
@@ -143,11 +143,18 @@ Transition.
 - Best spent at home - rest, eat, have a bath, distract yourself. Try to sleep if it starts at night.
 - **The 5-1-1 Rule**: Contractions 5 minutes apart, lasting 1 minute, for 1 hour = time to go to hospital. Worth memorising.
 
-## Slide 28: Stage 2 - Active Labour
+## Slide 28: Stage 1 - Active Labour
+Worth saying out loud that the medical naming is confusing: **Stage 1 covers everything up to full dilation** - both the slow early phase and this intense active phase. Stage 2 is the pushing. Stage 3 is the placenta.
 - Cervix goes from 6cm to full dilation (10cm).
 - Contractions get much stronger, longer, and closer together. This is when most people want pain relief.
-- Pushing can take anywhere from 20 minutes to 3 hours for first-timers.
 - The care team guides you through - you don't have to know what to do, they'll tell you.
+
+## Slide 28b: Stage 2 - Pushing & Birth
+- Stage 2 starts the moment you're fully dilated and ends when the baby is out.
+- Pushing can take anywhere from 20 minutes to 3 hours for first-timers. Second babies are much quicker.
+- Crowning is the "ring of fire" - an intense burning stretch. It's brief, and the numbness that follows is the body's own anaesthetic.
+- The head comes first, then one shoulder, then the rest arrives all at once.
+- Baby goes straight onto your chest with the cord still attached - that's the golden hour starting.
 
 ## Slide 29: Stage 3 - Placenta
 "This is the bit nobody tells you about." After the baby comes, you still have to deliver the placenta.
@@ -286,8 +293,9 @@ Don't stress about exact timings - these are ranges:
 
 ## Slide 53: Doctor vs Normal (Baby Edition)
 Similar traffic light approach. Key things to flag:
-- Fever in a baby under 3 months = A&E immediately. Any fever.
-- Not feeding for 8+ hours, very lethargic/floppy, rash that doesn't fade under a glass = immediate.
+- **Any** fever in a baby under 3 months = emergency room immediately. Not "high" fever - any fever at 38C or above. There's no judgement call to make at that age.
+- Not feeding for 8+ hours, very lethargic/floppy, blood in stool or vomit, or a rash that doesn't fade when you press a glass against it = immediate.
+- Dehydration signs: no wet nappy for 6+ hours, sunken fontanelle, crying without tears.
 - Congestion, mild rashes, fussiness, occasional vomiting = usually normal. Call Healthlink (811 in BC) if unsure.
 
 ## Slide 54: Looking After Our Relationship
@@ -329,8 +337,9 @@ Nappies, wipes, formula (if using), clothing (they grow fast).
 
 ## Slide 62: Childcare in Vancouver
 "This is the scary one."
-- Vancouver childcare is expensive. Infant care can be $1,500-2,000+/month.
-- $10/day childcare program is rolling out in BC but spaces are limited.
+- Vancouver infant care is advertised around $2,000/month, but the Child Care Fee Reduction Initiative knocks $900/month off automatically at about 94% of licensed centres - so the real number is closer to $1,100.
+- The income-tested Affordable Child Care Benefit can reduce it further on top of that.
+- $10/day spaces are real but genuinely scarce - nice if we get one, not something to plan around.
 - Waitlists are real - some people get on lists before the baby is born.
 - Worth exploring: family help, nanny shares, different neighbourhood options.
 
@@ -342,14 +351,17 @@ Let the quiz play out. The point isn't to hit an exact number - it's to have a b
 
 ## Slide 66: Maternity Leave & EI
 - In Canada, maternity leave is 15 weeks (birth parent only), available through EI.
-- EI pays 55% of earnings up to a maximum (~$668/week in 2024). It's not full salary.
+- EI pays 55% of earnings up to a maximum of $729/week in 2026 (max insurable earnings $68,900). It's not full salary, and above that cap the drop is much steeper than 45%.
 - Need 600 insurable hours to qualify.
+- There's a 1-week unpaid waiting period at the start of the claim.
+- EI under-withholds tax, so plan for a bill at filing time. This catches a lot of people out.
 - Some employers offer top-up - worth checking.
 
 ## Slide 68: Parental Leave Options
-- **Standard**: 35 weeks at 55% of earnings (can be split between parents).
-- **Extended**: 61 weeks at 33% of earnings.
-- Total with maternity: up to 50 weeks (standard) or 76 weeks (extended).
+- **Standard**: up to 35 weeks each at 55% ($729/week cap), max 40 weeks when shared.
+- **Extended**: up to 61 weeks each at 33% ($437/week cap), max 69 weeks when shared.
+- Total with maternity: up to 50 weeks (standard) or 76 weeks (extended) for one parent taking the lot.
+- The extra 5 weeks (standard) or 8 weeks (extended) aren't reserved for me specifically - they're bonus weeks that only unlock if we *both* take some leave. So there's free money in me taking a block.
 - Can be shared between parents. Worth thinking about who takes what and when.
 - Plan for the reduced income period - this is where the savings target matters.
 
