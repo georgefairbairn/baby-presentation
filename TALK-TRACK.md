@@ -1,415 +1,568 @@
-# Talk Track: "Let's Make a Baby!" Presentation
+# Talk Track: "Let's Make a Baby!"
 
-## Slide 1: Title
-"So I've been doing a lot of research and I wanted to share what I've learned with you. Think of this as everything I wish someone had told us in one place - by Dr. Lindy." Keep it light, maybe joke about the title.
+Slide numbers match the deck exactly (57 slides). Everything here is detail that
+*isn't* on the slides — the slides carry the facts, this carries what you say.
 
-## Slide 2: Agenda (What We'll Cover)
-"Four big sections - pregnancy itself, the birth and hospital bit, the first year at home, and then the money side of things. Some of it's heavy, some of it's fun, there are quizzes."
+---
+
+## Slide 1: Let's Make a Baby!
+"I've done a lot of reading and I wanted to put it all in one place rather than
+drip-feed it at you. This is me doing the homework — tell me what I've got wrong."
+Keep it light. Joke about the title.
+
+## Slide 2: What We'll Cover
+"Four sections — pregnancy, the birth, the first year, and money. Some of it's
+heavy, some of it's fun, there are quizzes. And at the end there are some things
+I want us to actually decide."
 
 ---
 
 ## PART 1: PREGNANCY
 
-## Slide 3: Section Divider
-No extra detail needed, just transition.
+## Slide 3: Section divider
+Just a transition.
 
-## Slide 4-5: Quiz - First Sense
-**Answer: Touch** - This is a good icebreaker. After revealing the answer you can add:
-- Touch develops crazy early - week 8. That's before most people even have their first scan. By week 16 the baby is sensitive across their entire body.
-- Hearing comes next around week 22 - this is why people talk to the bump and play music. There's actually evidence babies recognise their parents' voices from the womb.
-- Sight is the last to develop and honestly doesn't fully mature until months after birth. Newborns can only see about 20-30cm - basically the distance from the breast to your face. Evolution is clever like that.
+## Slide 4: Quiz — first sense
+**Answer: Touch.** Good icebreaker. After the reveal:
+- Touch develops at week 8 — before most people have even had a scan. By week 16
+  they're sensitive across their whole body.
+- Hearing comes around week 22. It's why people talk to the bump. There's decent
+  evidence babies recognise their parents' voices from the womb.
+- Sight is last and doesn't fully mature until months after birth. Newborns see
+  about 20–30cm — roughly breast to face. Evolution is tidy like that.
 
-## Slide 6: First Trimester (Weeks 1-12)
-**Milestones - extra detail:**
-- The growth is insane. At week 4 it's a poppy seed, by week 12 it's a lemon. All the major organs form in this window which is why the first trimester matters so much.
-- The dating ultrasound at 8-10 weeks is usually the first time you see anything. It's basically a blob with a heartbeat but it's surreal.
-- Miscarriage risk is highest here - about 1 in 8 known pregnancies end in loss, and around 80% of those happen in the first 12 weeks. It's why a lot of people wait until 12 weeks to tell anyone. We can decide together what feels right for us.
+## Slide 5: First Trimester (Weeks 1–12)
+**Milestones:**
+- The growth is mad. Poppy seed at week 4, lemon by week 12. Every major organ
+  forms in this window, which is why the first trimester matters so much.
+- The dating ultrasound at 8–10 weeks is usually the first time you see anything.
+  It's a blob with a heartbeat, and it's surreal.
+- Miscarriage risk is highest here — about 1 in 8 known pregnancies, and around
+  80% of those in the first 12 weeks. It's why people wait until 12 weeks to tell
+  anyone. We can decide together what feels right.
 
-**Symptoms - extra detail:**
-- "Morning sickness" is genuinely the worst name for anything in medicine. It can hit any time, all day. For some people it's mild nausea, for others it's constant vomiting. It usually eases by week 14-16 but not always.
-- The exhaustion is different from normal tiredness. Your body is literally building a placenta from scratch and your blood volume is increasing by 50%. It's doing a massive amount of work even when you're sitting still.
+**Symptoms:**
+- "Morning sickness" is the worst name in medicine. Any time, all day. Mild
+  nausea for some, constant vomiting for others. Usually eases by week 14–16.
+- The exhaustion isn't normal tiredness. Blood volume goes up 50% and the body is
+  building a placenta from scratch. Enormous work, even sitting still.
 
-## Slide 8: Second Trimester (Weeks 13-26)
-**Milestones - extra detail:**
-- This is called the golden trimester for a reason. The nausea usually backs off, energy comes back a bit. It's when most people feel the best during the whole pregnancy.
-- First kicks (quickening) happen between 18-22 weeks. First-time mums often feel them later because you don't know what you're feeling for. It starts as "flutters" or "bubbles" - easy to mistake for gas.
-- The anatomy scan at week 20 is the big one. They check the brain, heart, spine, kidneys - everything. This is also when you can find out the sex if we want to.
+## Slide 6: Second Trimester (Weeks 13–26)
+**Milestones:**
+- Golden trimester for a reason — nausea backs off, energy returns. Most people
+  feel best in this stretch.
+- First kicks between 18–22 weeks. First-timers often feel them later because you
+  don't know what you're feeling for. Starts as flutters, easy to mistake for gas.
+- The anatomy scan at week 20 is the big one — brain, heart, spine, kidneys. Also
+  when we can find out the sex, if we want to.
 
-**Symptoms - extra detail:**
-- Round ligament pain is sharp twinges in the lower belly - it's the ligaments stretching to accommodate the growing uterus. Completely normal but can be alarming if you're not expecting it.
-- The "glow" is real for some people - increased blood flow. But so is melasma (dark patches on the face) and linea nigra (the dark line down the belly). All hormonal, all temporary.
+**Symptoms:**
+- Round ligament pain is sharp twinges low down as ligaments stretch. Normal, but
+  alarming if you're not expecting it.
+- The "glow" is real for some — increased blood flow. So is melasma (dark patches
+  on the face) and linea nigra (the line down the belly). Hormonal, temporary.
 
-## Slide 10: Third Trimester (Weeks 27-40)
-**Milestones - extra detail:**
-- Baby is packing on about half a pound a week in the third trimester. Going from roughly 2 pounds at week 27 to 6-9 pounds at birth.
-- Braxton Hicks are practice contractions - your uterus tightening and releasing. They shouldn't be painful, more uncomfortable. If they become regular or painful, that's different.
-- Group B strep test at weeks 35-37 is a simple swab. About 25% of women carry it. If positive, you get IV antibiotics during labour. Not a big deal but important to know about.
-- "Baby drops" (lightening) means the baby's head engages in the pelvis. You'll feel like you can breathe again but you'll need to wee even more.
+## Slide 7: Third Trimester (Weeks 27–40)
+**Milestones:**
+- About half a pound a week. Roughly 2lb at week 27 to 6–9lb at birth.
+- Braxton Hicks are the uterus tightening and releasing. Uncomfortable rather
+  than painful. If they turn regular *and* painful, that's different.
+- Group B strep swab at 35–37 weeks. About 25% of women carry it. If positive you
+  get IV antibiotics in labour — not a big deal, but worth knowing.
+- "Baby drops" (lightening) is the head engaging in the pelvis. Breathing gets
+  easier, weeing gets worse.
 
-**Symptoms - extra detail:**
-- The insomnia before the baby arrives really does feel like nature's cruelest joke. You're huge, uncomfortable, need to pee constantly, and can't find a position that works.
-- Nesting is a real thing - a sudden urge to clean, organise, and prepare. If you suddenly want to reorganise the entire flat at 2am at 37 weeks, that's the hormones.
+**Symptoms:**
+- The insomnia is nature's cruellest joke — huge, uncomfortable, up all night, no
+  position works. *(Say this one, it's better out loud than on a slide.)*
+- Nesting is real. If she wants to reorganise the whole flat at 2am at 37 weeks,
+  that's hormones, not a personality change.
 
-## Slide 12: Nutrition
-**Eat - extra detail:**
-- Iron is huge because blood volume increases so much. If you're low on iron you'll feel even more exhausted. Red meat, spinach, lentils - pair with vitamin C to help absorption.
-- Oily fish (salmon, sardines) is great for baby's brain development but max twice a week due to mercury.
-- Folic acid is the single most important supplement - ideally starting before conception. It prevents neural tube defects like spina bifida.
+## Slide 8: Nutrition: Eat & Avoid
+**Eat:**
+- Iron matters because blood volume climbs so much. Low iron means even more
+  exhaustion. Red meat, spinach, lentils — pair with vitamin C for absorption.
+- Oily fish is great for brain development, max twice a week because of mercury.
+- Folic acid is the single most important supplement. We started in April, so
+  we're already covered — but worth saying why it matters: it prevents neural
+  tube defects like spina bifida.
 
-**Avoid - extra detail:**
-- The alcohol one is straightforward - no known safe amount during pregnancy.
-- The food rules can feel overwhelming. The short version: nothing raw or undercooked, no soft mould-ripened cheeses (brie, camembert), no pate. The risk is listeria and toxoplasmosis - rare but serious.
-- Health Canada's limit is 300mg a day - about two coffees. Doesn't have to be zero but worth being mindful of. (The NHS figure you may remember is stricter at 200mg.)
+**Avoid:**
+- Alcohol is straightforward: no known safe amount.
+- The food rules feel overwhelming. Short version — nothing raw or undercooked,
+  no soft mould-ripened cheeses, no pâté. Risk is listeria and toxoplasmosis:
+  rare, but serious.
+- Caffeine: Health Canada says under 300mg, about two coffees. Doesn't have to be
+  zero.
 
-## Slide 14: Healthcare in Canada
-This is a big one because it's different from the UK. "Healthcare here isn't like the NHS where you just get assigned someone. We actually have to choose between a midwife and an OB-GYN, and both are fully covered by provincial insurance."
+## Slide 9: Midwife or OB-GYN?
+The main thing: it isn't assigned, we choose. Both are fully covered by MSP.
 
-**Midwife - extra detail:**
-- Same person throughout - you build a relationship. They do home visits after birth which is amazing.
-- Midwives can deliver at hospital, birth centre, or at home.
-- The waitlists are real - in Vancouver especially. You basically need to register the moment you get a positive test. Some people even register before conception.
+**Midwife:**
+- Same person throughout, so you build a relationship. They do home visits after
+  the birth, which sounds genuinely brilliant.
+- Can deliver at hospital, birth centre or home.
+- **No referral needed** — we can approach a practice directly.
+- Waitlists in Vancouver are real. Register the moment we get a positive test.
 
-**OB-GYN - extra detail:**
-- You need a referral from a GP typically.
-- Better for high-risk pregnancies (age 35+, multiples, pre-existing conditions).
-- The trade-off is you might not get your actual OB at delivery - it depends who's on call.
+**OB-GYN:**
+- Usually needs a GP referral.
+- Better for higher-risk pregnancies — 35+, multiples, pre-existing conditions.
+- Trade-off: the OB you see may not be the one on call when you deliver.
 
-## Slide 15: When to Call Our Doctor
-"This is the kind of slide I hope we never need, but it's important to know." The traffic light system makes it easy to remember:
-- **Red** - don't second-guess, just call. Heavy bleeding, severe pain, baby stops moving, preeclampsia signs (sudden swelling + headaches + vision changes), high fever.
-- **Amber** - within 24 hours. Reduced (not stopped) movement, painful urination (could be UTI - common in pregnancy), persistent vomiting, unusual discharge.
-- **Green** - jot it down for the next appointment. Mild spotting in T1, Braxton Hicks, general aches.
+## Slide 10: When to Call Our Doctor
+"This is the slide I hope we never need." Traffic lights make it memorable:
+- **Red** — don't second-guess, just call. Heavy bleeding, severe pain, baby
+  stops moving, preeclampsia signs (sudden swelling, headaches, vision changes),
+  high fever.
+- **Amber** — within 24 hours. Reduced (not absent) movement, painful weeing
+  (often a UTI, common in pregnancy), persistent vomiting, unusual discharge.
+- **Green** — mention at the next appointment. Mild first-trimester spotting,
+  Braxton Hicks, general aches.
 
-The main message: if in doubt, always call. Nobody will think you're overreacting.
+Main message: if in doubt, call. Nobody will think you're overreacting.
 
-## Slide 16: Things That Can Go Wrong
-"This is the hard one but I think it's important we talk about it rather than pretend it doesn't exist."
-- **Miscarriage**: 1 in 8 known pregnancies. 80% happen in the first 12 weeks. The vast majority are chromosomal - random chance, nothing you did or didn't do.
-- **Ectopic**: 1 in 90. The embryo implants outside the uterus, usually in a fallopian tube. Signs are sharp one-sided pain and shoulder tip pain. Needs immediate medical attention.
-- **Preeclampsia**: After week 20. More common in first pregnancies. Monitored at every appointment (they check blood pressure and urine for protein). Manageable if caught early.
-- **Gestational Diabetes**: Screened for routinely mid-second trimester with a glucose test. Often no symptoms. Usually managed with diet and monitoring.
+## Slide 11: What Can Go Wrong
+"This is the hard one, but I'd rather we talked about it than pretended it
+doesn't exist."
+- **Miscarriage** — 1 in 8 known pregnancies, 80% in the first 12 weeks. Almost
+  always chromosomal. Random chance, nothing anyone did.
+- **Ectopic** — 1 in 90. Implants outside the uterus, usually a fallopian tube.
+  Sharp one-sided pain, shoulder tip pain, dizziness. This is an A&E job, not a
+  phone call.
+- **Preeclampsia** — after week 20, more common in first pregnancies. Checked at
+  every appointment via blood pressure and urine. Manageable if caught early.
+- **Gestational diabetes** — routine glucose screen mid-second trimester. Often
+  no symptoms. Usually managed with diet.
 
-## Slide 17: Before We Start Trying
-"A lot of this is stuff to think about before we even start."
+## Slide 12: Before We Start Trying
+"Most of this is stuff to sort before we even start."
 
-**For her:**
-- Folic acid 400mcg daily, ideally 3 months before trying. This is the #1 thing.
-- Health check - review any medications, make sure vaccinations are up to date (rubella and chickenpox especially - you can't get these vaccines during pregnancy).
-- Tracking the cycle to understand the fertile window. Ovulation typically happens ~14 days before a period. The fertile window is about 6 days.
+**Izzy:**
+- Folic acid — 400mcg daily, ideally three months ahead. We started in April, so
+  this one's already done.
+- Meds review and a general health check. Some prescriptions aren't safe in
+  pregnancy and are worth swapping early.
+- Rubella and chickenpox immunity. **These are live vaccines — they have to be
+  done before conception, with a month's gap after.** If either needs doing,
+  that's now, not September.
+- Cycle tracking. Ovulation is typically ~14 days before a period; the fertile
+  window is about six days.
 
-**For him:**
-- Sperm health matters too. General fitness, healthy weight. Sperm takes about 3 months to develop so lifestyle changes now show up later.
-- Family history on both sides - any genetic conditions worth knowing about.
+**George:**
+- Sperm takes about three months to turn over, so anything I change now shows up
+  later. Fitness, weight, alcohol.
+- Family history on both sides — anything genetic worth flagging.
 
-## Slide 18: If It Doesn't Happen Straight Away
-"I wanted to put this in deliberately, because everything else in this deck assumes we get pregnant and I don't want that to be the only story we've told ourselves."
-- Roughly a 1 in 4 chance in any given cycle. About 85% of couples conceive within a year. So a few months of nothing is the normal experience, not a warning sign.
-- The medical trigger for asking for help is 12 months of trying, or 6 months if either of us is over 35.
-- First round of tests is genuinely simple - bloods, an ultrasound, a semen analysis. And it's both of us tested, not just you. Worth saying out loud.
-- BC started funding IVF in July 2025 - up to $19,000 for one cycle, income-tested, with the full amount below $100k household income. Applicant has to be 41 or under. Good to know it exists; hopefully irrelevant.
-- The line that matters: **the plan is September, and if it isn't September that's still completely normal.** Neither of us should be treating month three as a failure.
+**Both:** if either of us is ever self-employed, EI special benefits need opting
+into a full 12 months before claiming. Worth knowing even if it doesn't apply.
 
-## Slide 19: During Pregnancy Do's & Don'ts
-Mostly self-explanatory from the cards, but worth adding:
-- **Exercise**: 150 mins/week is the guideline. Walking and swimming are great throughout. Prenatal yoga is specifically designed. It's about maintaining, not starting an intense new regime.
-- **Hot tubs/saunas**: The risk is overheating, especially in the first trimester. Core body temp above 39C can affect development.
-- **Cat litter**: Toxoplasmosis risk from cat faeces. "Good news - I'm on litter duty for 9 months."
-- **Flying**: Generally fine until about 36 weeks but airlines have their own cutoffs. Check with doctor and airline.
+## Slide 13: If It Doesn't Happen Straight Away
+"I put this in deliberately, because everything else in this deck assumes we get
+pregnant and I didn't want that to be the only story we'd told ourselves."
+- Roughly a 1 in 4 chance in any given cycle. About 85% of couples conceive
+  within a year. A few months of nothing is normal, not a warning sign.
+- The trigger for asking for help is 12 months, or 6 if either of us is over 35.
+- First tests are simple — bloods, an ultrasound, a semen analysis. Both of us
+  get tested, not just her. Worth saying out loud.
+- BC started funding IVF in July 2025: up to $19,000 for one cycle, income-tested
+  with the full amount below $100k, applicant 41 or under. Good that it exists;
+  hopefully irrelevant.
+- The line that matters: **the plan is September, and if it isn't September
+  that's still completely normal.** Neither of us treats month three as a failure.
 
-## Slide 21: Things Outside Our Control
-"This is maybe the most important slide." The message here is reassurance:
-- Chromosomal issues cause ~50% of miscarriages and they happen by random chance.
-- Risk drops dramatically over time: at 12 weeks it's 1.7%, by 16 weeks just 0.5%.
-- Once a heartbeat is detected, risk drops significantly.
-- Even after a miscarriage, 85% go on to have a healthy pregnancy next time. Even after 2-3, it's still 75%.
-- "The bottom line is we focus on what we can control and be kind to ourselves about the rest."
+## Slide 14: During Pregnancy: Do's & Don'ts
+Mostly self-explanatory. Worth adding:
+- **Exercise** — 150 mins/week. Walking and swimming throughout, prenatal yoga is
+  purpose-built. It's about maintaining, not starting something new and intense.
+- **Hot tubs and saunas** — the risk is overheating, especially in T1. Core temp
+  above 39°C can affect development.
+- **Cat litter** — toxoplasmosis. "Good news, I'm on litter duty for nine months."
+- **Flying** — generally fine to about 36 weeks, but airlines set their own
+  cutoffs. Check with both.
 
-## Slide 22: Birth Plan
-"This isn't a rigid script, it's more like preferences to share with our care team."
-- Draft it towards the end of the second trimester when we've done our research and prenatal classes.
+## Slide 15: Things Outside Our Control
+"This might be the most important slide." The job here is reassurance:
+- Chromosomal issues cause ~50% of miscarriages, purely by chance.
+- Risk drops fast: 1.7% at 12 weeks, 0.5% by 16.
+- Once there's a heartbeat, risk drops a lot.
+- After one miscarriage, 85% go on to a healthy pregnancy. After two or three,
+  still 75%.
+- Land it plainly: **what we can control, we control. The rest isn't on us.**
+  Don't over-egg this — say it once and move on.
+
+## Slide 16: Our Birth Plan
+"Not a script — preferences to hand to the care team."
+- Draft it end of the second trimester, once we've done the research and classes.
 - Discuss it at the week 36 appointment.
-- Keep it to one page - the staff don't have time to read an essay during labour.
-- The most important thing: stay flexible. Plans change and that's completely okay. The goal is a safe delivery, however that happens.
+- One page. Staff don't have time to read an essay mid-labour.
+- Most birth plans change on the day. The goal is a safe delivery, however it
+  happens.
 
 ---
 
 ## PART 2: BIRTH & HOSPITAL
 
-## Slide 23: Section Divider
+## Slide 17: Section divider
 Transition.
 
-## Slide 24-25: Quiz - Average Labour Length
-**Answer: 12-18 hours.** Most people are surprised by this.
-- Active labour (the intense part) is typically only 4-8 hours of that total. The early stage is the long, slow part.
-- Early labour is best spent at home - resting, eating, watching a film. Going to hospital too early can actually slow things down.
-- Second labours are usually much shorter - often half the time.
-- 12-18 is just an average. Both 6 hours and 30 hours are within normal range.
+## Slide 18: Quiz — labour length
+**Answer: 12–18 hours.** Most people are surprised.
+- Active labour is only 4–8 hours of that. The early stage is the long, slow part.
+- Early labour is best spent at home. Going in too early can slow things down.
+- Second labours are usually much shorter, often half.
+- It's an average — 6 hours and 30 hours are both normal.
 
-## Slide 27: Stage 1 - Early Labour
+## Slide 19: Stage 1: Early Labour (Latent Phase)
 - Contractions start irregular and build to regular.
-- Cervix dilates from 0 to about 6cm. This is the longest stage.
-- Best spent at home - rest, eat, have a bath, distract yourself. Try to sleep if it starts at night.
-- **The 5-1-1 Rule**: Contractions 5 minutes apart, lasting 1 minute, for 1 hour = time to go to hospital. Worth memorising.
+- Cervix goes 0 to about 6cm. Longest stage by far.
+- Home is the right place — rest, eat, bath, distract. Sleep if it starts at night.
+- **5-1-1**: contractions 5 minutes apart, 1 minute long, for 1 hour. Then we go.
+  Worth memorising.
 
-## Slide 28: Stage 1 - Active Labour
-Worth saying out loud that the medical naming is confusing: **Stage 1 covers everything up to full dilation** - both the slow early phase and this intense active phase. Stage 2 is the pushing. Stage 3 is the placenta.
-- Cervix goes from 6cm to full dilation (10cm).
-- Contractions get much stronger, longer, and closer together. This is when most people want pain relief.
-- The care team guides you through - you don't have to know what to do, they'll tell you.
+## Slide 20: Stage 1: Active Labour
+Flag that the naming is confusing: **Stage 1 is everything up to full dilation** —
+both the slow early phase and this intense one. Stage 2 is pushing. Stage 3 is the
+placenta.
+- Cervix goes 6cm to fully dilated at 10cm.
+- Contractions get much stronger, longer, closer together. This is when most
+  people want pain relief.
+- The care team guides you. You don't have to know what to do.
 
-## Slide 28b: Stage 2 - Pushing & Birth
-- Stage 2 starts the moment you're fully dilated and ends when the baby is out.
-- Pushing can take anywhere from 20 minutes to 3 hours for first-timers. Second babies are much quicker.
-- Crowning is the "ring of fire" - an intense burning stretch. It's brief, and the numbness that follows is the body's own anaesthetic.
-- The head comes first, then one shoulder, then the rest arrives all at once.
-- Baby goes straight onto your chest with the cord still attached - that's the golden hour starting.
+## Slide 21: Stage 2: Pushing & Birth
+- Starts the moment she's fully dilated, ends when the baby is out.
+- Pushing is 20 minutes to 3 hours for a first baby. Much quicker second time.
+- Crowning is the "ring of fire" — an intense burning stretch. It's brief, and the
+  numbness that follows is the body's own anaesthetic.
+- Head first, then one shoulder, then the rest arrives all at once.
+- Baby goes straight onto her chest, cord usually still attached.
 
-## Slide 29: Stage 3 - Placenta
-"This is the bit nobody tells you about." After the baby comes, you still have to deliver the placenta.
-- Takes 5-30 minutes with active management (an injection to help it along), up to an hour without.
-- You choose: managed (injection - faster, less bleeding) or physiological (let it happen naturally).
-- It's much easier than what just happened - most people barely notice because they're holding their baby.
+## Slide 22: Stage 3: Delivery of the Placenta
+"Nobody tells you about this one." After the baby, there's a second delivery.
+- 5–30 minutes with active management (an injection), up to an hour without.
+- We choose in advance: managed (faster, less bleeding) or physiological.
+- Much easier than what just happened. Most people barely notice because they're
+  holding their baby.
 
-## Slide 30: Signs It's Time
-Straightforward - just reinforce the 5-1-1 rule and add: "If your waters break, note the time and colour. Clear is normal. Green/brown - call immediately as it could mean meconium."
-- Trust your instincts. If something feels wrong, go in. Better safe.
+## Slide 23: Signs It's Time to Go to Hospital
+Reinforce 5-1-1, then add: "If the waters break, note the time and the colour.
+Clear is normal. Green or brown means call immediately — could be meconium."
+- Trust instincts. If something feels wrong, go in.
 
-## Slide 31: Pain Relief Options
-"There's no medal for doing it without pain relief. It's about what works for you."
-- **Epidural**: The gold standard. An anaesthesiologist puts a catheter in the lower back. You can still feel pressure but not pain. Available at most hospitals. Can slow labour slightly.
-- **Nitrous oxide (gas and air)**: You control it yourself, breathe it during contractions. Takes the edge off. Can make you lightheaded or nauseous.
-- **IV opioids**: Morphine or fentanyl. Doesn't eliminate pain but helps you relax between contractions. Can make baby drowsy if given close to delivery.
-- **Water therapy**: Hot bath or shower. Surprisingly effective in early labour.
-- **TENS machine**: Electrical pulses on your back. Best hired in advance. Works best in early stages.
-- **Going natural**: Breathing techniques, movement, massage, hypnobirthing. These work best if you've practised them beforehand.
-- Key message: you can change your mind at any point. Start natural and get an epidural at 3am? Totally fine.
+## Slide 24: Pain Relief Options in Canada
+"There's no medal for doing it without pain relief."
+- **Epidural** — the most effective. Anaesthesiologist places a catheter in the
+  lower back. You feel pressure, not pain. Can slow labour slightly.
+- **Nitrous oxide** — you hold the mask yourself, breathe through contractions.
+  Takes the edge off. Can make you lightheaded.
+- **IV opioids** — morphine or fentanyl. Doesn't remove pain, helps you rest
+  between contractions. Can make baby drowsy if given close to delivery.
+- **Water** — bath or shower. Surprisingly effective early on.
+- **TENS** — electrical pulses on the back. Hire in advance, works best early.
+- **Natural** — breathing, movement, massage, hypnobirthing. Works best if
+  practised beforehand.
+- Key message: you can change your mind at any point. Start natural, want an
+  epidural at 3am? Completely fine.
 
-## Slide 32: My Job on the Day
-"This is what I need to bring to the table."
-- **Before**: Bag packed, know the route, hospital number saved, car seat installed.
-- **Early labour**: Keep her comfortable, time contractions (there are apps for this), stay calm even if you're freaking out internally.
-- **At hospital**: Be the advocate. Know the birth plan so she doesn't have to explain it during contractions.
-- **Active labour**: Be fully present. No phone. Hold hands, rub back, cold flannel on forehead. Follow her lead.
-- **After**: Skin-to-skin if needed (if she can't for medical reasons), cut the cord if we want that, take photos.
+## Slide 25: My Job on the Day
+"This is what I'm bringing."
+- **Before** — bag packed, route known, hospital number saved, car seat fitted.
+- **Early labour** — keep her comfortable, time contractions (there are apps),
+  stay calm even if I'm not.
+- **At hospital** — be the advocate. Know the birth plan so she doesn't have to
+  explain it between contractions.
+- **Active labour** — fully present. No phone. Hands, back, cold flannel. Follow
+  her lead.
+- **After** — skin-to-skin if she can't, cut the cord if we want that, photos.
 
-## Slide 33: Golden Hour
-"The first hour after birth is genuinely magical."
-- **Skin-to-skin** isn't just nice - it actually regulates the baby's temperature, heart rate, and breathing. It kickstarts bonding hormones for both mum and baby.
-- First breastfeed ideally happens in this hour. Babies have a natural instinct to crawl to the breast (the "breast crawl").
-- **Delayed cord clamping** (waiting 1-3 minutes) allows more blood to transfer to baby, boosting iron stores.
-- If mum can't do skin-to-skin (e.g., after a c-section while being stitched up), dad does it. Equally beneficial.
+## Slide 26: The Golden Hour
+"The first hour is worth protecting."
+- **Skin-to-skin** isn't just nice — it regulates the baby's temperature, heart
+  rate and breathing, and kickstarts bonding hormones for both of them.
+- First breastfeed ideally happens in this hour. Babies have an instinct to crawl
+  to the breast.
+- **Delayed cord clamping** — waiting 1–3 minutes moves more blood to the baby and
+  boosts iron stores.
+- If she can't do skin-to-skin (a c-section, being stitched), I do it. Equally
+  good for the baby.
+- Keep visitors out. This hour doesn't come back.
 
-## Slide 34: What Happens to Mum After Birth
-"Nobody talks about this enough."
-- Stitches if there's a tear (very common, especially first time). Done with local anaesthetic.
-- Vitals monitored for a couple of hours - blood pressure, bleeding, temperature.
-- **Take the pain relief they offer.** Seriously. Don't be brave. Ibuprofen and paracetamol together work well.
-- First meal after birth will taste like the best thing you've ever eaten. Pack good snacks in the hospital bag.
-- First bathroom trip is daunting - totally normal to ask for help. The peri bottle is your friend.
-- Maternity pads are needed for weeks - the bleeding (lochia) lasts 4-6 weeks.
+## Slide 27: What Happens to You After Birth
+"Nobody talks about this part enough."
+- Stitches if there's a tear — very common first time, done under local.
+- Vitals watched for a couple of hours: blood pressure, bleeding, temperature.
+- **Take the pain relief.** Don't be brave. Ibuprofen and paracetamol together
+  work well.
+- The first meal will taste like the best thing you've ever eaten. Pack good
+  snacks.
+- First bathroom trip is daunting. Ask for help, and the peri bottle is your
+  friend.
+- Bleeding (lochia) lasts 4–6 weeks, so maternity pads for a while.
 
-## Slide 35: What Happens to Baby
-- **Apgar score**: Done at 1 and 5 minutes. Checks heart rate, breathing, colour, muscle tone, reflexes. 7+ out of 10 is normal. Don't stress if the 1-minute score is low - the 5-minute one matters more.
-- Weighed and measured - for the records and future tracking.
-- **Vitamin K injection**: Prevents a rare but serious bleeding disorder. Highly recommended, no real downside.
-- Hearing screening is quick and painless - a little sensor in the ear.
-- Identity bands go on immediately. Hospital security takes this seriously.
-- Baby stays with you the whole time unless there's a medical reason for NICU.
+## Slide 28: What Happens to Baby After Birth
+- **Apgar** at 1 and 5 minutes — heart rate, breathing, colour, tone, reflexes.
+  7+ is normal. Don't panic at a low 1-minute score; the 5-minute one matters.
+- Weighed and measured for the records.
+- **Vitamin K injection** — prevents a rare but serious bleeding disorder. No real
+  downside.
+- Hearing screen is quick and painless, a sensor in the ear.
+- ID bands go on immediately. Hospitals take this very seriously.
+- Baby stays with us throughout unless there's a medical reason.
 
-## Slide 36: Going Home
-- **Vaginal birth**: Usually 24-48 hours.
-- **C-section**: 2-4 days - it's major abdominal surgery.
-- Before discharge they check: bleeding is controlled, you've passed urine, baby is feeding, meconium has passed.
-- Public health nurse visits at home within the first week in most Canadian provinces. They check on both mum and baby.
-- **Car seat**: They literally won't let you leave without one properly installed. Get it fitted in advance - fire stations often do free checks.
+## Slide 29: Going Home
+- **Vaginal birth** — usually 24–48 hours.
+- **C-section** — 2–4 days. It's major abdominal surgery.
+- Before discharge they check bleeding is controlled, she's passed urine, baby is
+  feeding, and meconium has passed.
+- A public health nurse visits at home in the first week and checks on both.
+- **Car seat** — they won't let us leave without one properly fitted. Get it
+  installed in advance; fire stations often check them free.
 
 ---
 
 ## PART 3: FIRST YEAR
 
-## Slide 37: Section Divider
+## Slide 30: Section divider
 Transition.
 
-## Slide 38-39: Quiz - Newborn Sleep
-**Answer: 14-17 hours.** "Sounds amazing right? Here's the catch..."
-- It's in 2-3 hour chunks around the clock. The longest stretch is usually 3-4 hours.
-- They have no concept of day vs night initially. That develops over weeks.
-- Around 3-4 months many babies start consolidating sleep into longer stretches.
-- "Sleeping through the night" officially means just 5-6 hours. Not 8. Not 10. Five to six. Manage expectations.
+## Slide 31: Quiz — newborn sleep
+**Answer: 14–17 hours.** "Sounds great. Here's the catch."
+- It comes in 2–3 hour chunks around the clock. Longest stretch is 3–4 hours.
+- No concept of day versus night at first. That develops over weeks.
+- Around 3–4 months many babies start consolidating.
+- "Sleeping through" officially means 5–6 hours. Not 8. Not 10. Manage
+  expectations now.
 
-## Slide 40-41: Quiz - Nappy Changes
-**Answer: ~2,500-3,000.** "Yes, really."
-- Newborns go through 8-12 nappies a day. It drops to 6-8 as they get older.
-- Meconium (the first few days) is dark, tarry, and sticky. Vaseline on the bum first makes cleanup easier. Transitions to yellow seedy poo by week 2 if breastfed.
-- Stock up on nappies before the birth. You'll burn through them faster than you think.
+## Slide 32: Quiz — nappy changes
+**Answer: ~2,500–3,000.** "Yes, really."
+- 8–12 a day as a newborn, dropping to 6–8.
+- Meconium in the first days is dark, tarry and sticky. Vaseline first makes
+  cleanup much easier. Turns yellow and seedy by week 2 if breastfed.
+- Stock up before the birth.
 
-## Slide 42: Newborn Survival Guide - First 2 Weeks
-"This is the survival section. Not thriving, surviving."
-- **Shell shock is normal.** You bring this tiny human home and think "...now what?" Everyone feels this.
-- Feed every 2-3 hours including nights. Yes, you have to wake them to feed in the early days if they don't wake themselves.
-- Wind (burp) after every feed. Over the shoulder, sitting up, or face-down on your lap.
-- Umbilical cord stump: looks gross, keep it dry, don't pull it, it falls off in 1-3 weeks. Fold the nappy below it.
-- Sponge baths only until the stump falls off. After that, proper baths in a baby tub.
-- **Lower your standards for everything except baby care.** The house will be a mess. You won't cook. You'll eat cereal for dinner. That's fine.
-- Talk to each other. Check in. You're both going through it.
+## Slide 33: Newborn Survival Guide: First 2 Weeks
+"This is the survival section. Not thriving. Surviving."
+- **Shell shock is normal.** You bring this tiny person home and think "now what?"
+  Everyone feels it.
+- Feed every 2–3 hours including nights. In the early days you wake them if they
+  don't wake themselves.
+- Wind after every feed — over the shoulder, sitting up, or face-down on your lap.
+- Cord stump looks grim. Keep it dry, don't pull it, fold the nappy below it. Off
+  in 1–3 weeks.
+- Sponge baths only until it falls off.
+- **Lower our standards for everything except the baby.** House will be a mess. We
+  won't cook. Cereal for dinner is fine.
+- Talk to each other. Check in. We're both going through it.
 
-## Slide 43: Breastfeeding
+## Slide 34: Breastfeeding
 - Health Canada recommends exclusive breastfeeding for 6 months.
-- **It doesn't always come naturally** - and that's not failure. It's a learned skill for both mum and baby.
-- Lactation consultants exist for a reason - use them. Most hospitals have them.
-- Colostrum (the first milk) is thick, yellow, and packed with antibodies. It comes in tiny amounts but that's all baby needs.
-- Milk typically "comes in" around day 3-5. You'll know.
-- "Fed is best" is the most important thing. However the baby gets fed, that's the right way.
+- **It doesn't always come naturally**, and that isn't failure. It's a learned
+  skill for both of them.
+- The hospital lactation consultants are free — use them before paying privately.
+- Colostrum is thick, yellow and full of antibodies. Tiny amounts, and that's all
+  the baby needs.
+- Milk "comes in" around day 3–5. You'll know.
+- Watch for nipple soreness, engorgement and mastitis — that's when to get help.
+- Fed is best. However the baby gets fed is the right way.
 
-## Slide 44: Formula & Combination Feeding
-- Combination feeding (breast + formula) is very common and completely valid.
-- Formula is nutritionally complete - babies thrive on it.
-- Practical stuff: sterilise everything, follow instructions exactly on water temperature and scoops, don't reheat formula.
-- Worth knowing the brands and what's available locally before baby arrives.
+## Slide 35: Formula & Combination Feeding
+- Combination feeding is very common and completely valid.
+- Formula is nutritionally complete. Babies thrive on it.
+- Practical: sterilise everything, follow the instructions exactly on water
+  temperature and scoops, don't reheat.
+- Worth knowing the local brands before the baby arrives.
 
-## Slide 45: Safe Sleeping
-This one is non-negotiable - the guidelines exist to prevent SIDS:
-- Always on their **back** (not side, not front).
-- In their **own sleep space** (Moses basket, cot, bassinet) in our room for at least the first 6 months.
-- **Firm, flat mattress** with nothing else in there - no pillows, toys, bumpers, loose blankets.
-- Room temperature 16-20C.
-- "Feet to foot" - baby's feet at the bottom of the cot so they can't wriggle under covers.
+## Slide 36: Safe Sleeping Guidelines
+Non-negotiable — these exist to prevent SIDS:
+- Always on their **back**. Not side, not front.
+- Their **own sleep space** in our room for at least six months.
+- **Firm, flat mattress**, nothing else in there. No pillows, toys, bumpers or
+  loose blankets.
+- Room at 16–20°C.
+- **Never fall asleep with the baby on a sofa or armchair.** This is the one that
+  catches exhausted people out.
 
-## Slide 46: Surviving the Nights
-- "Sleep when the baby sleeps" sounds annoying but it's genuinely the best advice.
-- Take shifts if possible. One person sleeps while the other does the feed/change.
-- White noise is a game changer - there are apps and machines. Babies are used to the constant noise of the womb.
-- Keep night feeds boring - dim lights, no talking, no stimulation. You want baby to learn night = sleep.
-- It does get better. It really does.
+## Slide 37: Surviving the Nights
+- "Sleep when the baby sleeps" is annoying advice and also correct.
+- Take shifts. One sleeps while the other does the feed and change.
+- White noise works because babies are used to constant noise in the womb.
+- Keep night feeds boring — dim, quiet, no stimulation. Night means sleep.
+- Loose routine from 6–8 weeks: bath, feed, sleep.
+- It does get better.
 
-## Slide 47: When Does It Get Better?
-This is the hope slide - share the milestones that make life progressively easier:
-- Around 6-8 weeks: first real smile. Changes everything.
-- Around 3-4 months: sleep starts consolidating, you get longer stretches.
-- Around 6 months: starting solids, sitting up, becoming more interactive.
-- Every stage has hard parts but the ratio of hard to amazing shifts rapidly.
+## Slide 38: When Does It Get Better?
+The hope slide:
+- 6–8 weeks: first real smile. Changes everything.
+- 3–4 months: sleep starts consolidating.
+- 6 months: solids, sitting up, much more interactive.
+- Sleep regressions at 4, 8 and 12 months, just as we think we've cracked it.
+- Every stage has hard parts, but the ratio shifts fast.
 
-## Slide 48: Milestones 0-6 Months
-Don't stress about exact timings - these are ranges:
-- Social smile (6-8 weeks), cooing/babbling, reaching for things, rolling over, recognising faces.
-- Every baby is different. Some do things early, some late. The health visitor tracks all this.
+## Slide 39: Milestones: Months 0–6
+Don't stress the exact timings — these are ranges.
+- Social smile at 6–8 weeks, cooing, reaching, rolling, recognising faces.
+- Every baby is different. The public health nurse tracks all of this.
 
-## Slide 49: Milestones 7-12 Months
-- Sitting independently, crawling (or bum shuffling - equally valid), pulling to stand, possibly first steps.
-- First words around 12 months (often "mama" or "dada").
-- Separation anxiety kicks in around 8-10 months - they suddenly realise you can leave and they don't like it.
+## Slide 40: Milestones: Months 7–12
+- Sitting independently, crawling (or bum shuffling — equally valid), pulling to
+  stand, maybe first steps.
+- First words around 12 months, often "mama" or "dada".
+- Separation anxiety around 8–10 months — they work out you can leave, and object.
 
-## Slide 53: Doctor vs Normal (Baby Edition)
-Similar traffic light approach. Key things to flag:
-- **Any** fever in a baby under 3 months = emergency room immediately. Not "high" fever - any fever at 38C or above. There's no judgement call to make at that age.
-- Not feeding for 8+ hours, very lethargic/floppy, blood in stool or vomit, or a rash that doesn't fade when you press a glass against it = immediate.
-- Dehydration signs: no wet nappy for 6+ hours, sunken fontanelle, crying without tears.
-- Congestion, mild rashes, fussiness, occasional vomiting = usually normal. Call Healthlink (811 in BC) if unsure.
+## Slide 41: Doctor vs. Normal (Baby Edition)
+Same traffic lights. The ones to land:
+- **Any** fever in a baby under 3 months is an emergency room trip. Not "high"
+  fever — any fever at 38°C or above. No judgement call at that age.
+- Not feeding for 8+ hours, floppy or very lethargic, blood in stool or vomit, or
+  a rash that doesn't fade when you press a glass on it — go now.
+- Dehydration: no wet nappy for 6+ hours, sunken fontanelle, crying without tears.
+- Congestion, mild rashes, fussiness, occasional vomiting — usually fine. Call
+  HealthLink BC on 811 if unsure.
 
-## Slide 54: Looking After Our Relationship
+## Slide 42: Looking After Our Relationship
 "This one's for us."
-- Having a baby puts enormous pressure on a relationship. That's normal and expected.
-- Keep talking - even when you're exhausted. A 5-minute check-in matters.
-- Don't keep score on who did what. You're a team.
-- Accept help from family and friends. Let people bring food, hold the baby while you shower.
-- Date nights look different for a while - even watching a show together after the baby's asleep counts.
-- Be patient with each other. You're both learning.
+- Most couples find the first year the hardest. Knowing that in advance helps.
+- Keep talking even when exhausted. Five minutes counts.
+- Don't keep score on who did what.
+- Accept help. Let people bring food and hold the baby while we shower.
+- Date nights look different for a while. Watching something together after she's
+  down counts.
+- Arguments about nothing are usually sleep deprivation talking.
 
-## Slide 55: Postnatal Depression
-"Important one. For both of us."
-- **Baby blues** (day 3-10, tearful, emotional) are experienced by up to 80% of new mums. Hormonal, normal, passes.
-- **Postnatal depression** is different - persistent low mood, anxiety, difficulty bonding, lasting beyond 2 weeks. Affects ~1 in 7 women AND up to 1 in 10 men.
-- It's not weakness, it's not failure, it's chemical/hormonal and it's treatable.
-- If either of us feels it: talk about it, see the doctor, there's no shame. Early intervention makes a massive difference.
+## Slide 43: Postnatal Depression
+"Important, and for both of us."
+- **Baby blues** — day 3–10, tearful and emotional, up to 80% of new mums.
+  Hormonal, normal, passes.
+- **PND** is different: persistent low mood, anxiety, difficulty bonding, lasting
+  beyond two weeks. More than 1 in 10 mums, and about 1 in 10 dads.
+- The dads figure gets missed because nobody asks. Worth saying plainly that it
+  applies to me too.
+- Not weakness, not failure. Common and treatable, and early help makes a big
+  difference.
 
 ---
 
 ## PART 4: FINANCES
 
-## Slide 57: Section Divider
-"Right, let's talk money."
+## Slide 44: Section divider
+"Right. Money."
 
-## Slide 58-59: Quiz - First Year Cost
-Let the quiz play out. The answer will probably surprise both of you. Use it as a jumping-off point: "It sounds like a lot but a lot of it is one-time purchases, and there are ways to save."
+## Slide 45: Quiz — first year cost
+Let it play out. Then: "A lot of that is one-time purchases, and a lot of it is
+avoidable."
 
-## Slide 60: One-Time Costs
-The big purchases: crib, stroller, car seat, potentially a nursery setup.
-- Car seat is non-negotiable and legally required. Don't buy second-hand unless you know its full history (no accidents).
-- Stroller - you don't need the most expensive one. Think about what you'll actually use it for (city walking, trails, etc.).
-- Buy-nothing groups, hand-me-downs, and Facebook marketplace are your friend for almost everything else.
+## Slide 46: One-Time Costs: The Big Purchases
+- Car seat is legally required. Don't buy second-hand unless we know its full
+  history — no accidents.
+- Stroller: we don't need the most expensive one. Think about what we'll actually
+  use it for.
+- Buy-nothing groups, hand-me-downs and Marketplace cover almost everything else.
 
-## Slide 61: Monthly Essentials
-Nappies, wipes, formula (if using), clothing (they grow fast).
-- Nappies: ~$80-100/month. Cloth nappies save long-term but require more work.
-- Baby clothes: buy second-hand. They wear each size for about 2 months max.
+## Slide 47: Monthly Essentials
+- Nappies ~$80–120/month. Cloth saves long-term but is more work.
+- Clothes second-hand. They're in each size for about two months.
 
-## Slide 62: Childcare in Vancouver
-"This is the scary one."
-- Vancouver infant care is advertised around $2,000/month, but the Child Care Fee Reduction Initiative knocks $900/month off automatically at about 94% of licensed centres - so the real number is closer to $1,100.
-- The income-tested Affordable Child Care Benefit can reduce it further on top of that.
-- $10/day spaces are real but genuinely scarce - nice if we get one, not something to plan around.
-- Waitlists are real - some people get on lists before the baby is born.
-- Worth exploring: family help, nanny shares, different neighbourhood options.
+## Slide 48: Childcare in Vancouver
+"This is the scary one — but less scary than the sticker price."
+- Infant care is advertised around $2,000/month, but the Child Care Fee Reduction
+  Initiative takes $900 off automatically at about 94% of licensed centres. Real
+  number is closer to $1,100.
+- The income-tested Affordable Child Care Benefit can reduce it further, though
+  probably not for us.
+- $10/day spaces are real but genuinely scarce. Nice if we get one, not something
+  to plan around.
+- Waitlists are 12–18 months. Some people join before the baby is born.
+- Worth exploring: nanny shares, home-based, different neighbourhoods.
 
-## Slide 63: Other Costs to Budget For
-Activities, healthcare not covered by MSP (dental for us, some prescriptions), bigger car eventually, possibly a bigger place. Three that people forget:
-- **Pelvic floor physio** - ~$120/session, not MSP covered. Much more standard practice here than at home and genuinely worth budgeting for rather than treating as optional.
-- **Doula** - $1,200-2,500 one-off if we want one. Not covered.
-- **Lactation consultant** - $150-250/visit privately, but the hospital ones are free. Use those first.
-- **The deadline:** most Canadian employer benefit plans give you only **30 days from the birth** to add the baby to the plan. Miss it and you're waiting for open enrolment. Worth putting in the calendar now.
+## Slide 49: Other Costs to Budget For
+Activities, dental, prescriptions, a bigger car eventually. Three people forget:
+- **Pelvic floor physio** — ~$120/session, not MSP covered. Budget for it rather
+  than treating it as optional.
+- **Doula** — $1,200–2,500 one-off if we want one. Not covered.
+- **Lactation consultant** — $150–250/visit privately, but the hospital ones are
+  free. Use those first.
+- **The deadline:** most Canadian employer benefit plans give only **30 days from
+  the birth** to add the baby. Miss it and we wait for open enrolment. Diarise it.
 
-## Slide 64-65: Quiz - Savings Target
-Let the quiz play out. The point isn't to hit an exact number - it's to have a buffer for the reduced income period during parental leave.
+## Slide 50: Quiz — savings target
+Let it play out. The point isn't the exact number, it's having a buffer for the
+reduced-income period. Slide 53 is where that gets real.
 
-## Slide 66: Maternity Leave & EI
-- In Canada, maternity leave is 15 weeks (birth parent only), available through EI.
-- EI pays 55% of earnings up to a maximum of $729/week in 2026 (max insurable earnings $68,900). It's not full salary, and above that cap the drop is much steeper than 45%.
-- Need 600 insurable hours to qualify.
-- There's a 1-week unpaid waiting period at the start of the claim.
-- EI under-withholds tax, so plan for a bill at filing time. This catches a lot of people out.
-- Some employers offer top-up - worth checking.
-- Concretely: the cap is $3,158/month gross before tax. Everything either of us earns above $68,900 adds nothing to the payment, which is why the drop feels steeper than "55%" sounds.
+## Slide 51: Maternity Leave & EI
+- Maternity leave is 15 weeks, birth parent only, through EI. Can't be shared.
+- EI pays 55% up to $729/week in 2026 (max insurable earnings $68,900). That's
+  **$3,159/month gross**. Every dollar either of us earns above $68,900 adds
+  nothing, which is why the drop feels steeper than "55%" sounds.
+- 600 insurable hours to qualify — we both clear that easily.
+- There's a **1-week unpaid waiting period** at the start of the claim.
+- EI under-withholds tax, so plan for a bill at filing. Catches a lot of people.
+- Check whether either employer offers a top-up.
 
-## Slide 68: Parental Leave Options
-- **Standard**: up to 35 weeks each at 55% ($729/week cap), max 40 weeks when shared.
-- **Extended**: up to 61 weeks each at 33% ($437/week cap), max 69 weeks when shared.
-- Total with maternity: up to 50 weeks (standard) or 76 weeks (extended) for one parent taking the lot.
-- The extra 5 weeks (standard) or 8 weeks (extended) aren't reserved for me specifically - they're bonus weeks that only unlock if we *both* take some leave. So there's free money in me taking a block.
-- Can be shared between parents. Worth thinking about who takes what and when.
-- **The counterintuitive bit:** 18 months isn't less money overall, it's the same money spread thinner. One parent taking the lot gets ~$36,450 over 12 months ($3,038/mo) on standard, or ~$37,592 over 18 months ($2,088/mo) on extended. Extended is actually slightly more in total. The real question is monthly cashflow, not total.
-- Canada Child Benefit maxes at $8,157/year per child under 6, but it's income-tested and at our level it comes to $0. Apply anyway so we're registered - just don't budget for it.
-- Plan for the reduced income period - this is where the savings target matters.
+## Slide 52: Parental Leave Options
+- **Standard** — up to 35 weeks each at 55% ($729/week cap), max 40 shared.
+- **Extended** — up to 61 weeks each at 33% ($437/week cap), max 69 shared.
+- With maternity, that's up to 50 weeks (standard) or 76 (extended) for one parent
+  taking the lot.
+- The extra 5 weeks (standard) or 8 (extended) aren't reserved for me — they're
+  bonus weeks that only unlock if we *both* take some. Free money if I take a block.
+- **The bit people get wrong:** 18 months isn't less money overall, it's the same
+  money spread thinner. ~$36,450 over 12 months ($3,038/mo) on standard, or
+  ~$37,592 over 18 months ($2,088/mo) on extended. Extended is slightly *more* in
+  total. The question is monthly cashflow, not total.
+- Both parents must pick the same option, and there's no switching once payments
+  start.
 
-## Slide 68b: What This Actually Costs Us
-This is the slide to slow down on. Everything else in Part 4 is context for this one.
-- Household gross today is about $32,300/month. With Izzy on leave and me working, it's about $21,000 - a drop of $11,300/month, or 35%.
-- If we ever overlap our leave, it's $6,300/month. An 80% cut. Worth doing for a couple of weeks around the birth; not for months.
-- Across the whole first year (Izzy 50 weeks, me 5) the household goes from ~$388,000 to ~$234,000. About $154,000 less. That's the real number.
-- **The softener:** Izzy's taxable income drops from $173,500 to about $36,500, so her average tax rate falls a long way. The net hit is meaningfully gentler than the gross figures suggest.
-- **The thing I got wrong at first:** the Canada Child Benefit fully phases out around $220k of household income. We're well past that, so it's $0 for us. Still worth registering at birth, but nothing to budget.
-- **The RESP grant is different** - the basic 20% top-up isn't income-tested, so $2,500/year in gets $500 free regardless of what we earn.
-- **To check:** whether my bonus reduces my EI if it's paid during any leave weeks I take. Worth a question to HR before we decide who takes what.
-- The honest framing: the question isn't whether $21,000/month is a lot. It's whether our actual spending fits inside it. That's the conversation, and I don't think either of us knows the answer yet.
+## Slide 53: What This Actually Costs Us
+Slow down here. Everything else in Part 4 is context for this slide.
+- Household gross today is about $32,300/month. With Izzy on leave and me working,
+  about $21,000 — down $11,300/month, or 35%.
+- If we ever overlap leave it's $6,300/month, an 80% cut. Fine for a couple of
+  weeks around the birth. Not for months.
+- Across the first year (Izzy 50 weeks, me 5) the household goes from ~$388,000 to
+  ~$234,000. About $154,000 less.
+- **The softener:** Izzy's taxable income drops from $173,500 to about $36,500, so
+  her average tax rate falls a long way. The net hit is gentler than the gross.
+- **Canada Child Benefit is $0 for us** — it phases out fully around $220k of
+  household income and we're well past it. Register at birth anyway, but don't
+  budget for it.
+- **RESP is different** — the basic 20% grant isn't income-tested, so $2,500/year
+  in gets $500 free whatever we earn.
+- **To check:** whether my bonus reduces my EI if it lands during any leave weeks I
+  take. Question for HR before we decide who takes what.
+- Honest framing: the question isn't whether $21,000/month is a lot. It's whether
+  our actual spending fits inside it — and I don't think either of us knows yet.
 
-## Slide 69: The House & The Baby
-"You said this might not be relevant. I think it actually is."
-- **Mortgage timing is the big one.** A lot of Canadian lenders won't count EI income in full, so qualifying while one of us is on leave is harder. If we're buying, we want to be pre-approved and closed while we're both on full salary.
-- The deposit and the parental-leave buffer are the same pot of money. We can't count it twice - that's the honest tension between the two plans.
-- **Childcare waitlists are neighbourhood-specific and 12-18 months long.** If we register in one area and then move, we can lose our place. Argues for deciding roughly where we're going to be before we join lists.
-- A move mid-pregnancy can also mean changing midwife and which hospital we deliver at.
-- Don't move at 36 weeks or with a two-week-old. Second trimester is the window - that's when she'll have the most energy.
-- **Suggested order:** conceive, get pre-approved and close while we're both earning, move in the second trimester, then go on leave. February onwards works fine as long as the mortgage lands before the leave does.
+## Slide 54: The House & The Baby
+"You said this might not be relevant. I think it is."
+- **Mortgage timing is the big one.** Many Canadian lenders won't count EI income
+  in full, so qualifying while one of us is on leave is harder. Be pre-approved and
+  closed while we're both on full salary.
+- The deposit and the leave buffer are the same pot of money. We can't count it
+  twice — that's the real tension between the two plans.
+- **Childcare waitlists are neighbourhood-specific and 12–18 months.** Register in
+  one area then move and we can lose our place. Argues for settling where we'll be
+  before joining lists.
+- A move mid-pregnancy can also mean changing midwife and delivery hospital.
+- Don't move at 36 weeks or with a two-week-old. Second trimester is the window —
+  that's when she'll have the most energy.
+- **Suggested order:** conceive, get pre-approved and close while we're both
+  earning, move in the second trimester, then go on leave. February onwards is
+  fine as long as the mortgage lands before the leave does.
 
-## Slide 70: Over to You
-This is the point where I stop talking.
-- Don't rush it. Let her react to the whole thing first - she may want to go back to specific slides.
-- The eight questions aren't a checklist to get through tonight. If we only get through two, that's a good evening.
-- The one worth actually landing: **who takes which weeks of leave.** It's the decision with the longest lead time and the biggest financial consequence, and it's the one where I should be offering to take more rather than waiting to be asked.
+## Slide 55: Over to You
+This is where I stop talking.
+- Don't rush it. Let her react to the whole thing first — she may want to go back
+  to specific slides.
+- The eight questions aren't a checklist for tonight. Two is a good evening.
+- The one worth landing: **who takes which weeks of leave.** Longest lead time,
+  biggest financial consequence, and the one where I should be offering to take
+  more rather than waiting to be asked.
 
 ---
 
-## Slide 71: Closing - "We've Got This!"
-"Look, none of this is easy. But millions of people figure it out every year, and we will too. The fact that we're sitting here going through all of this together is already a good sign. We've got this."
+## Slide 56: We've Got This!
+"None of this is easy. But people figure it out every year, and we will too. The
+fact we're sitting here going through all of it together is already a good sign."
 
-## Slide 72: Photo + Confetti
-End on the high note. Celebrate.
+## Slide 57: Photo + confetti
+End on the high note.
