@@ -3,7 +3,7 @@
 Slide numbers match the deck exactly (37 slides). Everything here is detail that
 *isn't* on the slides. The slides carry the facts, this carries what you say.
 
-Rough timing: about 40 minutes if you don't stop, and you will stop. Budget an
+Rough timing is about 40 minutes if you don't stop, and you will stop. Budget an
 hour, and don't rush Part 4 to get there.
 
 ---
@@ -79,7 +79,7 @@ The fruit timeline is a joke to break the density. Don't narrate it.
   but serious.
 - Caffeine doesn't have to be zero, which surprises people.
 
-**Not on the slide, worth saying:** hot tubs and saunas are out, because core
+**Not on the slide, but worth saying.** Hot tubs and saunas are out, because core
 temperature above 39°C can affect development, especially in the first trimester.
 Cat litter is toxoplasmosis, so I'm on litter duty for nine months. Contact sports
 and anything with a fall risk are out. Flying is generally fine to about 36 weeks
@@ -115,7 +115,7 @@ the only story we'd told ourselves.
   with the full amount below $100k, applicant 41 or under. Good that it exists,
   and hopefully irrelevant.
 
-**The other deadline:** if either of us is ever self-employed, EI special benefits
+**The other deadline.** If either of us is ever self-employed, EI special benefits
 need opting into a full 12 months before claiming.
 
 The line that matters is the callout. **The plan is September, and if it isn't
@@ -137,13 +137,13 @@ The main thing is that it isn't assigned. We choose. Both are fully covered by M
 "This is the slide I hope we never need." Traffic lights make it memorable.
 
 Everything is on screen, so don't read the boxes. Say the two things that aren't
-written down:
+written down.
 - Amber-list painful weeing is usually a UTI, which is common in pregnancy and
   easily treated. It's on the list because untreated it isn't harmless.
 - If the waters break, note the time *and the colour*. Clear is normal. Green or
   brown could be meconium and means call immediately.
 
-Main message: if in doubt, call. Nobody has ever been annoyed at a pregnant woman
+Main message is simple. If in doubt, call. Nobody has ever been annoyed at a pregnant woman
 for ringing. 811 exists for exactly this.
 
 ## Slide 10: What Can Go Wrong
@@ -193,11 +193,11 @@ Transition. "Right. The day itself."
 ## Slide 14: How Labour Actually Goes
 This was five slides. Reveal a stage at a time and keep moving.
 
-Flag the naming, because it confuses everyone: **stage 1 is everything up to full
+Flag the naming, because it confuses everyone. **Stage 1 is everything up to full
 dilation**, both the slow early phase and the intense one. Stage 2 is pushing.
 Stage 3 is the placenta.
 
-- Early labour at home: rest, eat, bath, distract. Sleep if it starts at night,
+- Early labour is best at home. Rest, eat, bath, distract. Sleep if it starts at night,
   because you cannot get that sleep back later.
 - Crowning is brief, and the numbness that follows is the body's own anaesthetic.
   Worth saying, because "ring of fire" on its own is alarming.
@@ -243,7 +243,7 @@ Deliver this one straight. Don't undercut it with a joke.
   Equally good for the baby.
 - Don't panic at a low 1-minute Apgar. The 5-minute one is the one that matters.
 - Vitamin K prevents a rare but serious bleeding disorder. No real downside.
-- **Not on the slide:** the first meal will taste like the best thing she's ever
+- **Not on the slide.** The first meal will taste like the best thing she's ever
   eaten, so pack good snacks. The first bathroom trip is daunting, so ask for
   help, and the peri bottle is your friend.
 
@@ -307,7 +307,7 @@ The safety rules exist to prevent SIDS. Say that once, then don't labour it.
 End on the timeline. It does get better, and the 6–8 week smile changes everything.
 
 ## Slide 24: Year One, Roughly
-Don't read this slide, it's a reference. Say three things:
+Don't read this slide, it's a reference. Say three things.
 - These are wide ranges and the public health nurse tracks all of it, so we don't
   have to keep score.
 - Crawling is optional. Plenty of babies bum-shuffle straight to walking.
@@ -315,7 +315,7 @@ Don't read this slide, it's a reference. Say three things:
   problem. They've worked out we can leave, and they object.
 
 ## Slide 25: Doctor, or Normal?
-Same traffic lights. Two things to land properly:
+Same traffic lights. Two things to land properly.
 - **Any** fever in a baby under 3 months is an emergency room trip. Not "high"
   fever. Any fever at 38°C or above. No judgement call at that age.
 - The glass test for a rash that doesn't fade. Worth actually demonstrating.
@@ -362,7 +362,7 @@ the income drop is, and that's three slides away."
 - Clothes second-hand. They're in each size for about two months.
 - Cloth nappies save long-term but are more work. Worth a conversation, not a
   decision tonight.
-- Three that people forget: **pelvic floor physio** (budget for it rather than
+- Three that people forget. **Pelvic floor physio** (budget for it rather than
   treating it as optional), **doula** if we want one, and **lactation consultant**
   privately when the hospital ones are free.
 
@@ -441,7 +441,7 @@ yet.
 - A move mid-pregnancy can also mean changing midwife and delivery hospital.
 - Don't move at 36 weeks or with a two-week-old. Second trimester is the window,
   that's when she'll have the most energy.
-- **Suggested order:** conceive, get pre-approved and close while we're both
+- **Suggested order.** Conceive, get pre-approved and close while we're both
   earning, move in the second trimester, then go on leave. February onwards is
   fine as long as the mortgage lands before the leave does.
 
