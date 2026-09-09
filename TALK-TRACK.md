@@ -39,6 +39,9 @@ Just a transition.
   about 20–30cm, roughly breast to face.
 
 ## Slide 5: Forty Weeks, Three Chapters
+Open with the shape of it. Each trimester has its own character. The first is
+hard and hidden, the second is the good one, the third is a waiting game.
+
 This replaces what used to be three separate slides, so don't read it out. Reveal
 a column, say the one line that isn't written down, move on.
 
@@ -208,6 +211,9 @@ Stage 3 is the placenta.
 **5-1-1 is the thing to memorise.** Say it twice.
 
 ## Slide 15: Pain Relief Options in Canada
+"There's no medal for doing it without. The reason to have a first preference is
+so nobody has to ask you a question mid-contraction."
+
 "There's no medal for doing it without pain relief."
 - **Epidural.** Anaesthesiologist places a catheter in the lower back. You feel
   pressure, not pain. Can slow labour slightly.
@@ -224,6 +230,9 @@ Key message is the callout. Start natural, want an epidural at 3am? Completely
 fine, and I will not be keeping score.
 
 ## Slide 16: My Job on the Day
+"I wanted to write this one down so it's a commitment rather than a good
+intention."
+
 "This is what I'm bringing, and I wrote it down so it's a commitment rather than a
 good intention."
 
@@ -234,6 +243,9 @@ Deliver this one straight. Don't undercut it with a joke.
 - No phone. Say it out loud, it's the promise she'll remember.
 
 ## Slide 17: The First Few Hours
+"A lot happens quickly and almost all of it is routine. Knowing the order in
+advance means none of it is alarming when it happens."
+
 "A lot happens fast, and almost all of it is routine."
 - **Skin-to-skin** isn't just nice. It regulates the baby's temperature, heart
   rate and breathing, and kickstarts bonding hormones for both of them.
@@ -274,6 +286,9 @@ Transition.
   first makes cleanup much easier. Turns yellow and seedy by week 2.
 
 ## Slide 21: The First Two Weeks
+"Everyone I've asked describes this fortnight the same way. It's a blur and
+nobody feels competent."
+
 "This is the survival section. Not thriving. Surviving."
 - Shell shock is universal. You bring this tiny person home and think "now what?"
 - In the early days you wake them for feeds if they don't wake themselves.
@@ -284,6 +299,10 @@ Transition.
   for it.
 
 ## Slide 22: Feeding
+"Health Canada says six months. It's also the single most common thing for people
+to feel awful about, which is why I want us clear on it in advance rather than at
+3am on day four."
+
 - Colostrum is thick, yellow and full of antibodies. Tiny amounts, and that's all
   the baby needs in the first days. Milk "comes in" around day 3–5, and she'll know.
 - **It's a learned skill for both of them**, which is the bit nobody says. Not
@@ -324,6 +343,9 @@ Then the callout. 811 is free, 24 hours, staffed by nurses, and exists precisely
 for the "is this normal?" call. Neither of us should feel silly using it.
 
 ## Slide 26: Looking After Us
+"This is the slide I most wanted to put in, and it has the least information on
+it of anything in the deck."
+
 "This one's for us, and it's the slide I most wanted to put in."
 
 Don't rush it, and don't read the boxes.
