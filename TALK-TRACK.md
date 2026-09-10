@@ -39,9 +39,6 @@ Just a transition.
   about 20–30cm, roughly breast to face.
 
 ## Slide 5: Forty Weeks, Three Chapters
-Open with the shape of it. Each trimester has its own character. The first is
-hard and hidden, the second is the good one, the third is a waiting game.
-
 This replaces what used to be three separate slides, so don't read it out. Reveal
 a column, say the one line that isn't written down, move on.
 
@@ -133,7 +130,7 @@ The main thing is that it isn't assigned. We choose. Both are fully covered by M
   usually needs a GP referral.
 - The OB trade-off is that the one you see may not be the one on call when you
   deliver.
-- Waiting lists in Vancouver are real. Register the moment we get a positive test.
+- Waitlists in Vancouver are real. Register the moment we get a positive test.
   This is question 01 at the end for a reason.
 
 ## Slide 9: When to Call
@@ -211,9 +208,6 @@ Stage 3 is the placenta.
 **5-1-1 is the thing to memorise.** Say it twice.
 
 ## Slide 15: Pain Relief Options in Canada
-"There's no medal for doing it without. The reason to have a first preference is
-so nobody has to ask you a question mid-contraction."
-
 "There's no medal for doing it without pain relief."
 - **Epidural.** Anaesthesiologist places a catheter in the lower back. You feel
   pressure, not pain. Can slow labour slightly.
@@ -230,9 +224,6 @@ Key message is the callout. Start natural, want an epidural at 3am? Completely
 fine, and I will not be keeping score.
 
 ## Slide 16: My Job on the Day
-"I wanted to write this one down so it's a commitment rather than a good
-intention."
-
 "This is what I'm bringing, and I wrote it down so it's a commitment rather than a
 good intention."
 
@@ -243,9 +234,6 @@ Deliver this one straight. Don't undercut it with a joke.
 - No phone. Say it out loud, it's the promise she'll remember.
 
 ## Slide 17: The First Few Hours
-"A lot happens quickly and almost all of it is routine. Knowing the order in
-advance means none of it is alarming when it happens."
-
 "A lot happens fast, and almost all of it is routine."
 - **Skin-to-skin** isn't just nice. It regulates the baby's temperature, heart
   rate and breathing, and kickstarts bonding hormones for both of them.
@@ -286,9 +274,6 @@ Transition.
   first makes cleanup much easier. Turns yellow and seedy by week 2.
 
 ## Slide 21: The First Two Weeks
-"Everyone I've asked describes this fortnight the same way. It's a blur and
-nobody feels competent."
-
 "This is the survival section. Not thriving. Surviving."
 - Shell shock is universal. You bring this tiny person home and think "now what?"
 - In the early days you wake them for feeds if they don't wake themselves.
@@ -299,13 +284,9 @@ nobody feels competent."
   for it.
 
 ## Slide 22: Feeding
-"Health Canada says six months. It's also the single most common thing for people
-to feel awful about, which is why I want us clear on it in advance rather than at
-3am on day four."
-
 - Colostrum is thick, yellow and full of antibodies. Tiny amounts, and that's all
   the baby needs in the first days. Milk "comes in" around day 3–5, and she'll know.
-- **It's a skill both of them have to learn**, which is the bit nobody says. Not
+- **It's a learned skill for both of them**, which is the bit nobody says. Not
   coming naturally isn't failure.
 - Hospital lactation consultants are free. Use them before paying privately.
 - Worth knowing the local formula brands before the baby arrives rather than
@@ -335,7 +316,7 @@ Don't read this slide, it's a reference. Say three things.
 
 ## Slide 25: Doctor, or Normal?
 Same traffic lights. Two things to land properly.
-- **Any** fever in a baby under 3 months is a trip to A&E. Not "high"
+- **Any** fever in a baby under 3 months is an emergency room trip. Not "high"
   fever. Any fever at 38°C or above. No judgement call at that age.
 - The glass test for a rash that doesn't fade. Worth actually demonstrating.
 
@@ -343,9 +324,6 @@ Then the callout. 811 is free, 24 hours, staffed by nurses, and exists precisely
 for the "is this normal?" call. Neither of us should feel silly using it.
 
 ## Slide 26: Looking After Us
-"This is the slide I most wanted to put in, and it has the least information on
-it of anything in the deck."
-
 "This one's for us, and it's the slide I most wanted to put in."
 
 Don't rush it, and don't read the boxes.
@@ -378,7 +356,7 @@ the income drop is, and that's three slides away."
 ## Slide 29: What It Costs
 - Car seat is the one thing not to buy second-hand unless we know its full
   history. An accident writes one off invisibly.
-- On the pram, we don't need the most expensive one. Think about what we'll
+- On the stroller, we don't need the most expensive one. Think about what we'll
   actually use it for. Buy-nothing groups, hand-me-downs and Marketplace cover
   almost everything else.
 - Clothes second-hand. They're in each size for about two months.
@@ -400,7 +378,7 @@ birth to add the baby. Miss it and we wait for open enrolment. Diarise it.
   probably not for us.
 - $10/day spaces are real but genuinely scarce. Nice if we get one, not something
   to plan around.
-- Waiting lists are 12–18 months. Some people join before the baby is born.
+- Waitlists are 12–18 months. Some people join before the baby is born.
 - Worth exploring nanny shares, home-based options and different neighbourhoods.
 
 ## Slide 31: Maternity Leave & EI
@@ -457,7 +435,7 @@ yet.
   and closed while we're both on full salary.
 - The deposit and the leave buffer are the same pot of money. We can't count it
   twice. That's the real tension between the two plans.
-- **Childcare waiting lists are neighbourhood-specific and 12–18 months.** Register in
+- **Childcare waitlists are neighbourhood-specific and 12–18 months.** Register in
   one area then move and we can lose our place. Argues for settling where we'll be
   before joining lists.
 - A move mid-pregnancy can also mean changing midwife and delivery hospital.
@@ -477,7 +455,7 @@ This is where I stop talking.
 - The one worth landing is **who takes which weeks of leave.** Longest lead time,
   biggest financial consequence, and the one where I should be offering to take
   more rather than waiting to be asked.
-- Question 01 (registering with a midwife) has the shortest fuse. Waiting lists mean
+- Question 01 (registering with a midwife) has the shortest fuse. Waitlists mean
   the decision is effectively made the day we get a positive test.
 
 ## Slide 36: We've Got This
