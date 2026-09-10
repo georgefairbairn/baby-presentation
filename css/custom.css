@@ -87,6 +87,7 @@
 
 /* A titled column of items */
 .panel {
+  box-sizing: border-box;
   background: var(--card-bg);
   border-radius: var(--card-radius);
   box-shadow: var(--card-shadow);
