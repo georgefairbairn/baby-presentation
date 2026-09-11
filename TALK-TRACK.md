@@ -1,6 +1,6 @@
 # Talk Track: "Let's Make a Baby!"
 
-Slide numbers match the deck exactly (37 slides). Everything here is detail that
+Slide numbers match the deck exactly (38 slides). Everything here is detail that
 *isn't* on the slides. The slides carry the facts, this carries what you say.
 
 Rough timing is about 40 minutes if you don't stop, and you will stop. Budget an
