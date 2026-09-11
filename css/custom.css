@@ -456,12 +456,17 @@
 
 /* Small decorative GIF. Kept in normal flow and right-aligned so it can
    never overlap a callout or run off the edge of the slide. */
+.slide-gif.sm { height: 140px; }
+.slide-gif.md { height: 160px; }
+.slide-gif.lg { height: 240px; }
+.slide-gif.xl { height: 280px; }
+
 .slide-gif {
   display: block;
   /* Right-aligned in normal flow. An explicit height keeps the slide's
      total height the same whether or not the GIF has loaded yet. */
   margin: 12px 0 0 auto;
-  height: 104px;
+  height: 180px;
   width: auto;
   border-radius: 10px;
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.14);
@@ -535,5 +540,10 @@
   .cols-2, .cols-3, .cols-4, .stats, .triage, .qa, .quiz-options, .quiz-facts {
     grid-template-columns: 1fr;
   }
-  .slide-gif { display: none; }
+  .slide-gif.sm { height: 140px; }
+.slide-gif.md { height: 160px; }
+.slide-gif.lg { height: 240px; }
+.slide-gif.xl { height: 280px; }
+
+.slide-gif { display: none; }
 }
