@@ -463,6 +463,11 @@ This is the slide for question 05, and it exists because Izzy wants a full year.
   for all of it either way. The difference shows up in year two.
 - **One decision, made once.** We both have to choose the same option and there
   is no switching after payments start.
+- **The sliders are live, so hand her the laptop.** Drag her weeks and mine and
+  the household figure updates. It also refuses illegal splits, so if we try
+  Standard with her on 50 and me on 12 it turns red and says we are 7 weeks over
+  the shared pool. That is a better way to show the constraint than me asserting
+  it.
 - Do not push a recommendation here. She has said she wants the year. The slide
   is to show her what it costs and that the constraint is real, not to argue.
 

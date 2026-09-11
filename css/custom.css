@@ -547,3 +547,69 @@
 
 .slide-gif { display: none; }
 }
+
+/* ============================================================
+   Leave-split calculator
+   ============================================================ */
+
+.calc {
+  display: grid;
+  grid-template-columns: 1.35fr 1fr;
+  gap: 22px;
+  align-items: stretch;
+  margin-top: 6px;
+}
+
+.calc-controls {
+  box-sizing: border-box;
+  background: var(--card-bg);
+  border-radius: var(--card-radius);
+  box-shadow: var(--card-shadow);
+  border-top: 4px solid var(--accent);
+  padding: 16px 18px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 14px;
+}
+
+.calc-row { display: flex; align-items: center; gap: 12px; }
+.calc-label { font-size: 0.46em; font-weight: 700; color: var(--charcoal); width: 120px; flex: none; }
+.calc-val { font-size: 0.5em; font-weight: 800; color: var(--accent); width: 34px; text-align: right; flex: none; }
+
+.calc-row input[type="range"] { flex: 1; accent-color: var(--accent); height: 22px; cursor: pointer; }
+
+.calc-toggle { display: flex; gap: 6px; }
+.calc-toggle button {
+  font: inherit;
+  font-size: 0.42em;
+  font-weight: 700;
+  padding: 6px 12px;
+  border-radius: 999px;
+  border: 2px solid rgba(0,0,0,0.12);
+  background: #fff;
+  color: #666;
+  cursor: pointer;
+}
+.calc-toggle button.on { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+.calc-result {
+  box-sizing: border-box;
+  background: var(--card-bg);
+  border-radius: var(--card-radius);
+  box-shadow: var(--card-shadow);
+  border-top: 4px solid var(--accent);
+  padding: 16px 18px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 6px;
+}
+
+.calc-figure { font-size: 1.15em; font-weight: 800; color: var(--accent); line-height: 1.1; }
+.calc-sub { font-size: 0.44em; color: #666; }
+.calc-flag { font-size: 0.4em; font-weight: 700; padding: 3px 10px; border-radius: 999px; margin-top: 2px; }
+.calc-flag.ok { background: rgba(46,204,113,0.16); color: #1E8449; }
+.calc-flag.bad { background: rgba(231,76,60,0.14); color: #B03A2E; }

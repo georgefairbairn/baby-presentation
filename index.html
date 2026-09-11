@@ -900,35 +900,34 @@
 <!-- HOUSE & BABY -->
 <section class="content-slide s-money">
   <h2>How We Split the Year</h2>
-  <p class="lede">Standard caps you at 50 weeks. A full year needs Extended.</p>
-  <div class="cols cols-3">
-    <div class="panel fragment rise">
-      <h3>Standard</h3>
-      <ul class="rows">
-        <li><b>You 50 weeks, me 5</b>15 maternity plus your 35, which is your ceiling.</li>
-        <li><b>$322,800 that year</b>Down 17%.</li>
-        <li><b>Not quite a year</b>Two weeks short, and only 5 for me.</li>
-      </ul>
+  <p class="lede">Standard caps you at 50 weeks. A full year needs Extended. Drag these and see.</p>
+  <div class="calc" data-prevent-swipe>
+    <div class="calc-controls">
+      <div class="calc-row">
+        <span class="calc-label">EI option</span>
+        <span class="calc-toggle">
+          <button type="button" id="optStd" class="on">Standard</button><button type="button" id="optExt">Extended</button>
+        </span>
+      </div>
+      <div class="calc-row">
+        <span class="calc-label">Your weeks off</span>
+        <input type="range" id="izWks" min="15" max="61" value="50">
+        <span class="calc-val" id="izOut">50</span>
+      </div>
+      <div class="calc-row">
+        <span class="calc-label">My weeks off</span>
+        <input type="range" id="geWks" min="0" max="40" value="5">
+        <span class="calc-val" id="geOut">5</span>
+      </div>
     </div>
-    <div class="panel fragment rise">
-      <h3>Extended</h3>
-      <ul class="rows">
-        <li><b>You 52 weeks, me 12</b>A full year for you, and my full entitlement.</li>
-        <li><b>$306,300 that year</b>Down 21%.</li>
-        <li><b>About $16,600 more</b>That's the price of the full year.</li>
-      </ul>
-    </div>
-    <div class="panel fragment rise">
-      <h3>Extended, longer</h3>
-      <ul class="rows">
-        <li><b>You 14 months, me 12 weeks</b>Up to 61 weeks each if we want it.</li>
-        <li><b>Same in year one</b>The extra cost lands in year two.</li>
-        <li><b>Childcare starts later</b>Which is its own saving.</li>
-      </ul>
+    <div class="calc-result">
+      <span class="calc-figure" id="hhOut">$322,800</span>
+      <span class="calc-sub" id="dropOut">Down $65,300 that year, or 17%</span>
+      <span class="calc-flag" id="flagOut">Allowed</span>
     </div>
   </div>
-  <div class="callout fragment rise"><b>My 12 weeks are topped to full base either way.</b> Salesforce doesn't care which option we pick, so this choice really only changes what you get after month six.</div>
-  <div class="callout heart fragment rise"><b>We both have to pick the same option, and there's no switching once payments start.</b> So this is one decision, made once, before either of us claims.</div>
+  <div class="callout fragment rise"><b>My weeks are topped to full base for the first 12 either way.</b> So this choice mostly changes what you get after month six, when Bloomreach stops and EI starts.</div>
+  <div class="callout heart fragment rise"><b>One decision, made once.</b> We both have to pick the same option, and there's no switching after payments start.</div>
 </section>
 
 <section class="content-slide s-money">
@@ -1111,6 +1110,71 @@
     if (e.currentSlide.id === 'final-photo-slide') startConfetti();
     else stopConfetti();
   });
+
+  // ---- Leave-split calculator -------------------------------------------
+  (function () {
+    var GEO_BASE = 186621, GEO_OTE = 214614, IZ = 173500;
+    var HH = GEO_OTE + IZ;                 // 388,114
+    var IZ_TOPUP = 26;                     // Bloomreach, full pay
+    var GEO_TOPUP = 12;                    // Salesforce, full base, secondary carer
+    var MAT = 15;                          // maternity, birth parent only
+    var OPT = {
+      std: { rate: 729, pool: 40, each: 35 },
+      ext: { rate: 437, pool: 69, each: 61 }
+    };
+    var mode = 'std';
+    var $ = function (id) { return document.getElementById(id); };
+    var iz = $('izWks'), ge = $('geWks');
+    if (!iz || !ge) return;
+
+    function money(n) { return '$' + Math.round(n).toLocaleString('en-CA'); }
+
+    function calc() {
+      var o = OPT[mode];
+      var izOff = +iz.value, geOff = +ge.value;
+      // Izzy: full Bloomreach pay for 26 wks, then EI, then back at salary
+      var izCap = Math.min(izOff, 52);
+      var izFull = Math.min(izCap, IZ_TOPUP);
+      var izEi = izCap - izFull;
+      var izPay = izFull * (IZ / 52) + izEi * o.rate + (52 - izCap) * (IZ / 52);
+      // George: full base for 12 wks, then EI, then back at full comp
+      var geCap = Math.min(geOff, 52);
+      var geFull = Math.min(geCap, GEO_TOPUP);
+      var geEi = geCap - geFull;
+      var gePay = geFull * (GEO_BASE / 52) + geEi * o.rate + (52 - geCap) * (GEO_OTE / 52);
+      var hh = izPay + gePay;
+
+      $('izOut').textContent = izOff;
+      $('geOut').textContent = geOff;
+      $('hhOut').textContent = money(hh);
+      var drop = HH - hh;
+      $('dropOut').textContent = 'Down ' + money(drop) + ' that year, or ' + Math.round(drop / HH * 100) + '%';
+
+      // EI rules: maternity is hers alone. Parental is shared and capped.
+      var izPar = Math.max(izOff - MAT, 0), gePar = geOff;
+      var flag = $('flagOut'), msg = '', ok = true;
+      if (izPar > o.each) { ok = false; msg = 'Over your ' + o.each + ' week parental limit'; }
+      else if (gePar > o.each) { ok = false; msg = 'Over my ' + o.each + ' week parental limit'; }
+      else if (izPar + gePar > o.pool) { ok = false; msg = 'Over the ' + o.pool + ' week shared pool by ' + (izPar + gePar - o.pool); }
+      else { msg = 'Allowed. ' + (izPar + gePar) + ' of ' + o.pool + ' shared weeks used'; }
+      flag.textContent = msg;
+      flag.className = 'calc-flag ' + (ok ? 'ok' : 'bad');
+    }
+
+    [iz, ge].forEach(function (el) {
+      el.addEventListener('input', calc);
+      // stop arrow keys from also flipping the slide
+      el.addEventListener('keydown', function (e) { e.stopPropagation(); });
+    });
+    $('optStd').addEventListener('click', function () {
+      mode = 'std'; this.classList.add('on'); $('optExt').classList.remove('on'); calc();
+    });
+    $('optExt').addEventListener('click', function () {
+      mode = 'ext'; this.classList.add('on'); $('optStd').classList.remove('on'); calc();
+    });
+    calc();
+  })();
+
 </script>
 </body>
 </html>
