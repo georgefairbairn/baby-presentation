@@ -443,7 +443,30 @@ numbers moved a long way once we checked both employers.
   question is how many weeks we each want, not how many we can afford.
 
 
-## Slide 34: The House & The Baby
+## Slide 34: How We Split the Year
+This is the slide for question 05, and it exists because Izzy wants a full year.
+
+- **The constraint does most of the deciding.** Standard parental gives her 35
+  weeks, plus her 15 weeks of maternity, so 50 weeks is her ceiling. A full year
+  is not available on Standard. If she wants twelve months, we are on Extended.
+- On Standard the shared pool is 40 weeks. If she takes her full 35, I get 5.
+  There is no arrangement where she takes her maximum and I take twelve.
+- Extended has a 69 week shared pool, so her 37 and my 12 fit easily.
+- **The cost of the full year is about $16,600 across year one.** $322,800 on
+  Standard against $306,300 on Extended. Worth saying plainly so it doesn't feel
+  like a hidden number.
+- **My twelve weeks are topped to full base either way.** Salesforce doesn't care
+  which EI option we pick, so the choice only changes what she gets after month
+  six, when Bloomreach stops and EI starts. Standard would pay her $729 a week,
+  Extended $437.
+- Going beyond twelve months costs nothing extra in year one, because she is off
+  for all of it either way. The difference shows up in year two.
+- **One decision, made once.** We both have to choose the same option and there
+  is no switching after payments start.
+- Do not push a recommendation here. She has said she wants the year. The slide
+  is to show her what it costs and that the constraint is real, not to argue.
+
+## Slide 35: The House & The Baby
 "You said this might not be relevant. I think it is."
 - **Mortgage timing is the big one.** Many Canadian lenders won't count EI income
   in full, so qualifying while one of us is on leave is harder. Be pre-approved
@@ -462,7 +485,7 @@ numbers moved a long way once we checked both employers.
 
 ---
 
-## Slide 35: Over to You
+## Slide 36: Over to You
 This is where I stop talking.
 - Don't rush it. Let her react to the whole thing first. She may want to go back
   to specific slides, and that's the best possible outcome.
@@ -473,9 +496,9 @@ This is where I stop talking.
 - Question 01 (registering with a midwife) has the shortest fuse. Waitlists mean
   the decision is effectively made the day we get a positive test.
 
-## Slide 36: We've Got This
+## Slide 37: We've Got This
 "None of this is easy. But people figure it out every year, and we will too. The
 fact we're sitting here going through all of it together is already a good sign."
 
-## Slide 37: Photo
+## Slide 38: Photo
 End on the high note. Say nothing.
