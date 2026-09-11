@@ -382,11 +382,10 @@ birth to add the baby. Miss it and we wait for open enrolment. Diarise it.
 - Worth exploring nanny shares, home-based options and different neighbourhoods.
 
 ## Slide 31: Maternity Leave & EI
-**The big one, and it's new.** Salesforce tops my leave up to 100% of base salary,
-26 weeks as primary caregiver or 12 as secondary, with no weekly cap. So the EI cap
-barely matters for me. Taking 26 weeks instead of 5 costs the household about
-$11,000 across the year. Confirm with HR whether I can be designated primary.
-Izzy still needs to check her own employer.
+**The big one.** Salesforce tops my leave up to 100% of base salary, and Izzy
+gets six months at full pay from Bloomreach. Between them, the EI cap matters far
+less than this slide used to suggest. I'm the secondary carer, so 12 weeks at
+full base, with no weekly cap.
 
 - Maternity leave is 15 weeks, birth parent only, through EI. Can't be shared.
 - EI pays 55% up to $729/week in 2026 (max insurable earnings $68,900). That's
@@ -422,14 +421,22 @@ numbers moved a long way once we checked both employers.
 - The cliff is at month six, when she moves to EI at $729 a week. Household goes
   to about $21,000 a month, down $11,300 or 35%.
 - Across the whole first year the household drops from about $388,000 to about
-  $316,000. Roughly $72,000 less, a 19% cut. My first version of this slide said
+  $323,000. Roughly $65,000 less, a 17% cut. My first version of this slide said
   40%, because I had not accounted for either employer.
-- **Salesforce tops me to 100% of base salary**, 26 weeks as primary caregiver
-  or 12 as secondary, no weekly cap. So me taking 26 weeks instead of 5 costs
-  about $11,000 across the whole year. That is the cheapest leave either of us
-  will ever be offered.
-- To confirm with HR, whether I can be designated primary caregiver rather than
-  secondary. It is 14 extra weeks at full base pay.
+- **Salesforce tops me to 100% of base salary** for 12 weeks as secondary carer,
+  with no weekly cap. Still the cheapest leave either of us will ever be offered.
+- **I checked, and I'm the secondary carer.** Designating as primary means
+  attesting that my partner's employer doesn't offer equal or greater paid
+  parental leave. Bloomreach gives Izzy six months at full pay, which matches
+  Salesforce's primary benefit, so I can't make that attestation. Twelve weeks
+  at full base, not twenty-six.
+- **The weeks are shared, so mine come out of hers.** Standard parental is 40
+  weeks between us. If I take 12, she takes 28 parental plus her 15 maternity.
+- Worth knowing but probably not worth saying out loud unless she raises it.
+  Because both of us are topped up, me taking my full 12 weeks while she goes
+  back a bit earlier actually leaves the household better off, by roughly
+  $14,000. Do not lead with that. The decision should be about what we each
+  want, not about squeezing the year.
 - No Canada Child Benefit at our income, it stops around $235k. The RESP grant
   is not income-tested, so $2,500 a year in gets $500 free.
 - Honest framing. The money is not the constraint we thought it was. The real
