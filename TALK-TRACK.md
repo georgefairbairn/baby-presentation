@@ -413,26 +413,28 @@ Izzy still needs to check her own employer.
   take a block, and I think I should. That's question 05.
 
 ## Slide 33: What This Actually Costs Us
-Slow down here. Everything else in Part 4 is context for this slide.
-- Household gross today is about $32,300/month. With Izzy on leave and me working,
-  about $21,000, down $11,300/month, or 35%.
-- If we ever overlap leave it's $6,300/month, an 80% cut. Fine for a couple of
-  weeks around the birth. Not for months.
-- Across the first year (Izzy 50 weeks, me 5) the household goes from ~$388,000 to
-  ~$234,000. About $154,000 less.
-- **The softener.** Izzy's taxable income drops from $173,500 to about $36,500, so
-  her average tax rate falls a long way. The net hit is gentler than the gross.
-- **Canada Child Benefit is $0 for us.** It phases out fully around $220k of
-  household income and we're well past it. Register at birth anyway, but don't
-  budget for it.
-- **RESP is different.** The basic 20% grant isn't income-tested, so $2,500/year
-  in gets $500 free whatever we earn.
-- **To check** whether my bonus reduces my EI if it lands during any leave weeks I
-  take. Question for HR before we decide who takes what.
+Slow down here. Everything else in Part 4 is context for this slide, and the
+numbers moved a long way once we checked both employers.
 
-Honest framing to finish. The question isn't whether $21,000/month is a lot. It's
-whether our actual spending fits inside it, and I don't think either of us knows
-yet.
+- Household gross today is about $32,300 a month.
+- **Bloomreach pays Izzy full salary for six months.** So for the first half of
+  her leave there is no drop at all. That was the big surprise.
+- The cliff is at month six, when she moves to EI at $729 a week. Household goes
+  to about $21,000 a month, down $11,300 or 35%.
+- Across the whole first year the household drops from about $388,000 to about
+  $316,000. Roughly $72,000 less, a 19% cut. My first version of this slide said
+  40%, because I had not accounted for either employer.
+- **Salesforce tops me to 100% of base salary**, 26 weeks as primary caregiver
+  or 12 as secondary, no weekly cap. So me taking 26 weeks instead of 5 costs
+  about $11,000 across the whole year. That is the cheapest leave either of us
+  will ever be offered.
+- To confirm with HR, whether I can be designated primary caregiver rather than
+  secondary. It is 14 extra weeks at full base pay.
+- No Canada Child Benefit at our income, it stops around $235k. The RESP grant
+  is not income-tested, so $2,500 a year in gets $500 free.
+- Honest framing. The money is not the constraint we thought it was. The real
+  question is how many weeks we each want, not how many we can afford.
+
 
 ## Slide 34: The House & The Baby
 "You said this might not be relevant. I think it is."
