@@ -613,3 +613,34 @@
 .calc-flag { font-size: 0.4em; font-weight: 700; padding: 3px 10px; border-radius: 999px; margin-top: 2px; }
 .calc-flag.ok { background: rgba(46,204,113,0.16); color: #1E8449; }
 .calc-flag.bad { background: rgba(231,76,60,0.14); color: #B03A2E; }
+
+/* ============================================================
+   Try windows — go / stop bands
+   ============================================================ */
+
+.windows { display: flex; flex-direction: column; gap: 7px; margin-top: 4px; }
+
+.win {
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: 152px 62px 1fr 1fr;
+  align-items: center;
+  gap: 14px;
+  padding: 9px 14px;
+  border-radius: 10px;
+  border-left: 5px solid var(--wc, var(--accent));
+  background:
+    linear-gradient(var(--wash, transparent), var(--wash, transparent)),
+    var(--card-bg);
+  box-shadow: var(--card-shadow);
+}
+.win.go   { --wc: var(--green); --wash: rgba(18, 161, 80, 0.09); }
+.win.stop { --wc: var(--red);   --wash: rgba(228, 87, 46, 0.09); }
+
+.win .when { font-size: 0.44em; font-weight: 800; color: var(--charcoal); text-align: left; }
+.win .verdict {
+  font-size: 0.38em; font-weight: 800; text-align: center;
+  padding: 3px 0; border-radius: 999px; color: #fff; background: var(--wc);
+}
+.win .what { font-size: 0.4em; color: #555; line-height: 1.35; text-align: left; }
+.win .what b { color: var(--wc); font-weight: 700; }

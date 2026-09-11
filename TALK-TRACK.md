@@ -1,6 +1,6 @@
 # Talk Track: "Let's Make a Baby!"
 
-Slide numbers match the deck exactly (39 slides). Everything here is detail that
+Slide numbers match the deck exactly (40 slides). Everything here is detail that
 *isn't* on the slides. The slides carry the facts, this carries what you say.
 
 Rough timing is about 40 minutes if you don't stop, and you will stop. Budget an
@@ -122,36 +122,50 @@ The line that matters is the callout. **The plan is September, and if it isn't
 September that's still completely normal.** Say it once, plainly, and don't
 over-egg it.
 
-## Slide 8: When to Start, Around the Weddings
-This is the slide she'll have opinions about, so don't rush it.
+## Slide 8: When We Can Try
+This is the heart of the evening. Don't rush it and don't arrive with an answer.
 
-- The two fixed points are her brother's wedding in Spain on 10 September 2027
-  and my sister's in Australia in mid April 2028.
-- **Start now.** Baby due late June 2027, so about 11 weeks old in Spain. The
-  problem isn't the flight, it's the paperwork. A Canadian child passport needs
-  the birth certificate first, which is 4 to 6 weeks, then the passport itself.
-  Call it 8 to 11 weeks, and the baby is 11 weeks old. There is no slack, and if
-  anything slips we don't go.
-- **Pause and start in April 2027.** Due late December. She'd be about 25 weeks
-  in Spain, which is the most comfortable point in a pregnancy to fly, and under
-  the 28 week mark where airlines want a doctor's letter. In Australia the baby
-  would be about 4 months, still small enough for a bassinet and not yet crawling.
-  Both events land in the easy window. The cost is roughly six months of waiting.
-- **Wait until after Spain.** She's not pregnant for the first wedding and about
-  24 weeks for the second, which is fine. But the baby arrives a year later than
-  the first option, and that's the real price.
-- **The window to actively avoid is conceiving between mid December and late
-  January.** That puts her at 35 to 40 weeks on the wedding date. Air Canada
-  stops international travel at 35 weeks, so she would not be able to fly, and
-  she might be in labour. Worth naming plainly.
-- Don't present April as the answer. Present it as the option that happens to fit
-  and let her weigh it against waiting six months.
+- Both weddings are fixed, we're in the party at both, and Australia is a four
+  week trip. Those three facts do most of the deciding.
+- **The trap is the flight home, not the flight out.** Airlines cap international
+  travel at 35 weeks. On a four week trip that means she has to be under 35 on
+  the return, which pulls the cut-off a month earlier than anyone assumes.
+  Conceiving in late July 2027 would have her 40 weeks on the way back, which is
+  to say giving birth in Australia.
+- Walk the five bands in order rather than jumping to the conclusion.
+- The two stop zones are not arbitrary. Late October to late March fails Spain,
+  because the baby would be under her eight week buffer or she would be grounded
+  at 35 weeks. May to early November fails Australia for the same two reasons.
 
-**If she asks about skipping a wedding.** That's a real option too, and cheaper
-than reorganising a pregnancy around it. Worth saying so rather than treating
-both weddings as immovable.
+## Slide 9: Window One Is About One Cycle
+The honest slide. She'll appreciate it more than optimism.
 
-## Slide 9: Flying With a Bump, or a Baby
+- We want to start now, and window one closes in about three weeks for a
+  comfortable passport run, or 19 October if we pay for express service.
+- That is one cycle, possibly two. At roughly one in four per cycle, we have
+  about a 30% chance of catching it.
+- **So the most likely outcome is that we miss it.** Saying that out loud now is
+  the whole point of the slide.
+- The three levers are real and worth naming. Express passport service buys about
+  three weeks. Her accepting six weeks postpartum rather than eight buys another
+  two. A doctor's letter opens February and March, though that means flying to
+  Spain at 29 to 33 weeks, which is a different conversation.
+- **The ask is to agree the rule, not the date.** Try now, and if it hasn't
+  happened by the end of October we stop and wait until late March. Agreeing to
+  a five month pause now is far easier than trying to agree to it in November
+  when we're disappointed.
+- If she pushes back on pausing at all, that's fair. The alternative is accepting
+  that Spain might not work, and that is a legitimate choice too. Don't defend
+  the pause as though it's the only option.
+
+**One more thing worth raising.** In windows one and two she'd be on maternity
+leave during the Australia trip. In window three she'd be working and needing
+four weeks of annual leave while 24 weeks pregnant. And my twelve weeks of
+Salesforce leave could be timed to cover April 2028, which would mean neither of
+us burning holiday on it. Worth checking the 30 day notice rule with Matrix.
+
+
+## Slide 10: Flying With a Bump, or a Baby
 The rules behind the previous slide. Keep it brief, it's reference.
 
 - Air Canada allows international flights up to 35 weeks, and wants a doctor's
@@ -171,7 +185,7 @@ The rules behind the previous slide. Keep it brief, it's reference.
   visa-free for Canadians, though the EU's ETIAS scheme is due to start and may
   add a form by then. Check both nearer the time.
 
-## Slide 10: Midwife or OB-GYN?
+## Slide 11: Midwife or OB-GYN?
 The main thing is that it isn't assigned. We choose. Both are fully covered by MSP.
 - Midwives do home visits after the birth, which sounds genuinely brilliant, and
   you get the same person throughout so you build a relationship.
@@ -182,7 +196,7 @@ The main thing is that it isn't assigned. We choose. Both are fully covered by M
 - Waitlists in Vancouver are real. Register the moment we get a positive test.
   This is question 01 at the end for a reason.
 
-## Slide 11: When to Call
+## Slide 12: When to Call
 "This is the slide I hope we never need." Traffic lights make it memorable.
 
 Everything is on screen, so don't read the boxes. Say the two things that aren't
@@ -195,7 +209,7 @@ written down.
 Main message is simple. If in doubt, call. Nobody has ever been annoyed at a pregnant woman
 for ringing. 811 exists for exactly this.
 
-## Slide 12: What Can Go Wrong
+## Slide 13: What Can Go Wrong
 "I nearly left this out, but I'd rather we'd both read it calmly now than be
 reading it on a phone at 3am."
 
@@ -213,7 +227,7 @@ Then slow down for the callout. This is the actual point of the slide, and the
 reassurance is the bit she should be left holding. **What we can control, we
 control. The rest isn't on us.** Say it once and move on.
 
-## Slide 13: Our Birth Plan
+## Slide 14: Our Birth Plan
 "Not a script. Preferences to hand to the care team so nobody has to ask you
 anything at 4cm."
 - Draft it end of the second trimester, once we've done the research and classes.
@@ -229,17 +243,17 @@ now, while we're calm.
 
 ## PART 2 BIRTH & HOSPITAL
 
-## Slide 14: Section divider
+## Slide 15: Section divider
 Transition. "Right. The day itself."
 
-## Slide 15: Quiz, labour length
+## Slide 16: Quiz, labour length
 **Answer is 12–18 hours.** Most people are surprised.
 - Active labour is only 4–8 hours of that. The early stage is the long, slow part.
 - Going in too early can actually slow things down, which is why "stay home" is
   advice and not just cost-saving.
 - It's an average. Six hours and thirty hours are both normal.
 
-## Slide 16: How Labour Actually Goes
+## Slide 17: How Labour Actually Goes
 This was five slides. Reveal a stage at a time and keep moving.
 
 Flag the naming, because it confuses everyone. **Stage 1 is everything up to full
@@ -256,7 +270,7 @@ Stage 3 is the placenta.
 
 **5-1-1 is the thing to memorise.** Say it twice.
 
-## Slide 17: Pain Relief Options in Canada
+## Slide 18: Pain Relief Options in Canada
 "There's no medal for doing it without pain relief."
 - **Epidural.** Anaesthesiologist places a catheter in the lower back. You feel
   pressure, not pain. Can slow labour slightly.
@@ -272,7 +286,7 @@ Stage 3 is the placenta.
 Key message is the callout. Start natural, want an epidural at 3am? Completely
 fine, and I will not be keeping score.
 
-## Slide 18: My Job on the Day
+## Slide 19: My Job on the Day
 "This is what I'm bringing, and I wrote it down so it's a commitment rather than a
 good intention."
 
@@ -282,7 +296,7 @@ Deliver this one straight. Don't undercut it with a joke.
   birth plan between contractions.
 - No phone. Say it out loud, it's the promise she'll remember.
 
-## Slide 19: The First Few Hours
+## Slide 20: The First Few Hours
 "A lot happens fast, and almost all of it is routine."
 - **Skin-to-skin** isn't just nice. It regulates the baby's temperature, heart
   rate and breathing, and kickstarts bonding hormones for both of them.
@@ -298,7 +312,7 @@ Deliver this one straight. Don't undercut it with a joke.
 
 Land the callout. Visitors can wait. That hour doesn't come back.
 
-## Slide 20: Going Home
+## Slide 21: Going Home
 - A c-section is major abdominal surgery, which is why it's 2–4 days and not one.
 - The public health nurse visit is genuinely good and included. They check on both
   of them, not just the baby.
@@ -309,10 +323,10 @@ Land the callout. Visitors can wait. That hour doesn't come back.
 
 ## PART 3 FIRST YEAR
 
-## Slide 21: Section divider
+## Slide 22: Section divider
 Transition.
 
-## Slide 22: Quiz, newborn sleep
+## Slide 23: Quiz, newborn sleep
 **Answer is 14–17 hours.** "Sounds great. Here's the catch."
 - It comes in 2–3 hour chunks around the clock.
 - No concept of day versus night at first. That develops over weeks.
@@ -322,7 +336,7 @@ Transition.
   newborn. Meconium in the first days is dark, tarry and sticky, and Vaseline
   first makes cleanup much easier. Turns yellow and seedy by week 2.
 
-## Slide 23: The First Two Weeks
+## Slide 24: The First Two Weeks
 "This is the survival section. Not thriving. Surviving."
 - Shell shock is universal. You bring this tiny person home and think "now what?"
 - In the early days you wake them for feeds if they don't wake themselves.
@@ -332,7 +346,7 @@ Transition.
   won't cook. Cereal for dinner is fine and I don't want either of us apologising
   for it.
 
-## Slide 24: Feeding
+## Slide 25: Feeding
 - Colostrum is thick, yellow and full of antibodies. Tiny amounts, and that's all
   the baby needs in the first days. Milk "comes in" around day 3–5, and she'll know.
 - **It's a learned skill for both of them**, which is the bit nobody says. Not
@@ -345,7 +359,7 @@ The callout is the point of the slide, and it's for her, not for the record.
 **If breastfeeding is making you miserable, we switch, and I won't need
 convincing.** Say it and let it sit.
 
-## Slide 25: Sleep
+## Slide 26: Sleep
 The safety rules exist to prevent SIDS. Say that once, then don't labour it.
 - The sofa and armchair one is the rule that catches exhausted people out, which
   is exactly why it's on the list.
@@ -355,7 +369,7 @@ The safety rules exist to prevent SIDS. Say that once, then don't labour it.
 
 End on the timeline. It does get better, and the 6–8 week smile changes everything.
 
-## Slide 26: Year One, Roughly
+## Slide 27: Year One, Roughly
 Don't read this slide, it's a reference. Say three things.
 - These are wide ranges and the public health nurse tracks all of it, so we don't
   have to keep score.
@@ -363,7 +377,7 @@ Don't read this slide, it's a reference. Say three things.
 - Separation anxiety around 8–10 months is a developmental milestone, not a
   problem. They've worked out we can leave, and they object.
 
-## Slide 27: Doctor, or Normal?
+## Slide 28: Doctor, or Normal?
 Same traffic lights. Two things to land properly.
 - **Any** fever in a baby under 3 months is an emergency room trip. Not "high"
   fever. Any fever at 38°C or above. No judgement call at that age.
@@ -372,7 +386,7 @@ Same traffic lights. Two things to land properly.
 Then the callout. 811 is free, 24 hours, staffed by nurses, and exists precisely
 for the "is this normal?" call. Neither of us should feel silly using it.
 
-## Slide 28: Looking After Us
+## Slide 29: Looking After Us
 "This one's for us, and it's the slide I most wanted to put in."
 
 Don't rush it, and don't read the boxes.
@@ -394,15 +408,15 @@ Don't rush it, and don't read the boxes.
 
 ## PART 4 FINANCES
 
-## Slide 29: Section divider
+## Slide 30: Section divider
 "Right. Money."
 
-## Slide 30: Quiz, first year cost
+## Slide 31: Quiz, first year cost
 Let it play out, then use the third card as the bridge. "A lot of that is
 one-time, and a lot of it is avoidable. But the spend isn't really the problem,
 the income drop is, and that's three slides away."
 
-## Slide 31: What It Costs
+## Slide 32: What It Costs
 - Car seat is the one thing not to buy second-hand unless we know its full
   history. An accident writes one off invisibly.
 - On the stroller, we don't need the most expensive one. Think about what we'll
@@ -418,7 +432,7 @@ the income drop is, and that's three slides away."
 **The deadline.** Most Canadian employer benefit plans give only 30 days from the
 birth to add the baby. Miss it and we wait for open enrolment. Diarise it.
 
-## Slide 32: Childcare in Vancouver
+## Slide 33: Childcare in Vancouver
 "This is the scary one, but less scary than the sticker price."
 - Infant care is advertised around $2,000/month, but the Child Care Fee Reduction
   Initiative takes $900 off automatically at about 94% of licensed centres. Real
@@ -430,7 +444,7 @@ birth to add the baby. Miss it and we wait for open enrolment. Diarise it.
 - Waitlists are 12–18 months. Some people join before the baby is born.
 - Worth exploring nanny shares, home-based options and different neighbourhoods.
 
-## Slide 33: Maternity Leave & EI
+## Slide 34: Maternity Leave & EI
 **The big one.** Salesforce tops my leave up to 100% of base salary, and Izzy
 gets six months at full pay from Bloomreach. Between them, the EI cap matters far
 less than this slide used to suggest. I'm the secondary carer, so 12 weeks at
@@ -445,7 +459,7 @@ full base, with no weekly cap.
 - EI under-withholds tax, so plan for a bill at filing. Catches a lot of people.
 - Check whether either employer offers a top-up. Could change the whole picture.
 
-## Slide 34: Parental Leave, Standard or Extended
+## Slide 35: Parental Leave, Standard or Extended
 - **Standard.** Up to 35 weeks each at 55% ($729/week cap), max 40 shared.
 - **Extended.** Up to 61 weeks each at 33% ($437/week cap), max 69 shared.
 - With maternity, that's up to 50 weeks (standard) or 76 (extended) for one parent
@@ -460,7 +474,7 @@ full base, with no weekly cap.
   they're bonus weeks that only unlock if we *both* take some. Free money if I
   take a block, and I think I should. That's question 05.
 
-## Slide 35: What This Actually Costs Us
+## Slide 36: What This Actually Costs Us
 Slow down here. Everything else in Part 4 is context for this slide, and the
 numbers moved a long way once we checked both employers.
 
@@ -492,7 +506,7 @@ numbers moved a long way once we checked both employers.
   question is how many weeks we each want, not how many we can afford.
 
 
-## Slide 36: How We Split the Year
+## Slide 37: How We Split the Year
 This is the slide for question 05, and it exists because Izzy wants a full year.
 
 - **The constraint does most of the deciding.** Standard parental gives her 35
@@ -520,7 +534,7 @@ This is the slide for question 05, and it exists because Izzy wants a full year.
 - Do not push a recommendation here. She has said she wants the year. The slide
   is to show her what it costs and that the constraint is real, not to argue.
 
-## Slide 37: The House & The Baby
+## Slide 38: The House & The Baby
 "You said this might not be relevant. I think it is."
 - **Mortgage timing is the big one.** Many Canadian lenders won't count EI income
   in full, so qualifying while one of us is on leave is harder. Be pre-approved
@@ -539,9 +553,9 @@ This is the slide for question 05, and it exists because Izzy wants a full year.
 
 ---
 
-## Slide 38: We've Got This
+## Slide 39: We've Got This
 "None of this is easy. But people figure it out every year, and we will too. The
 fact we're sitting here going through all of it together is already a good sign."
 
-## Slide 39: Photo
+## Slide 40: Photo
 End on the high note. Say nothing.
