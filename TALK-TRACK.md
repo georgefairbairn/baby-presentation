@@ -111,9 +111,9 @@ everything else in this deck assumes we get pregnant and I didn't want that to b
 the only story we'd told ourselves.
 - First tests are simple. Bloods, an ultrasound, a semen analysis. Both of us get
   tested, not just her. Worth saying out loud.
-- BC started funding IVF in July 2025, up to $19,000 for one cycle, income-tested
-  with the full amount below $100k, applicant 41 or under. Good that it exists,
-  and hopefully irrelevant.
+- BC started funding IVF in July 2025, up to $19,000 for one cycle. It's income-
+  tested and stops dead at $250k household, so we'd get nothing. Worth knowing it
+  exists, but it isn't a safety net for us.
 
 **The other deadline.** If either of us is ever self-employed, EI special benefits
 need opting into a full 12 months before claiming.
@@ -382,6 +382,12 @@ birth to add the baby. Miss it and we wait for open enrolment. Diarise it.
 - Worth exploring nanny shares, home-based options and different neighbourhoods.
 
 ## Slide 31: Maternity Leave & EI
+**The big one, and it's new.** Salesforce tops my leave up to 100% of base salary,
+26 weeks as primary caregiver or 12 as secondary, with no weekly cap. So the EI cap
+barely matters for me. Taking 26 weeks instead of 5 costs the household about
+$11,000 across the year. Confirm with HR whether I can be designated primary.
+Izzy still needs to check her own employer.
+
 - Maternity leave is 15 weeks, birth parent only, through EI. Can't be shared.
 - EI pays 55% up to $729/week in 2026 (max insurable earnings $68,900). That's
   **$3,159/month gross**. Every dollar either of us earns above $68,900 adds
