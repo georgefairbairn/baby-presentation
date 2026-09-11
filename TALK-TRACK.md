@@ -1,6 +1,6 @@
 # Talk Track: "Let's Make a Baby!"
 
-Slide numbers match the deck exactly (40 slides). Everything here is detail that
+Slide numbers match the deck exactly (39 slides). Everything here is detail that
 *isn't* on the slides. The slides carry the facts, this carries what you say.
 
 Rough timing is about 40 minutes if you don't stop, and you will stop. Budget an
@@ -38,7 +38,7 @@ Just a transition.
 - Sight is last and doesn't fully mature until months after birth. Newborns see
   about 20–30cm, roughly breast to face.
 
-## Slide 5: Forty Weeks, Three Chapters
+## Slide 5: Forty Weeks, Three Trimesters
 This replaces what used to be three separate slides, so don't read it out. Reveal
 a column, say the one line that isn't written down, move on.
 
@@ -539,20 +539,9 @@ This is the slide for question 05, and it exists because Izzy wants a full year.
 
 ---
 
-## Slide 38: Over to You
-This is where I stop talking.
-- Don't rush it. Let her react to the whole thing first. She may want to go back
-  to specific slides, and that's the best possible outcome.
-- The eight questions aren't a checklist for tonight. Two is a good evening.
-- The one worth landing is **who takes which weeks of leave.** Longest lead time,
-  biggest financial consequence, and the one where I should be offering to take
-  more rather than waiting to be asked.
-- Question 01 (registering with a midwife) has the shortest fuse. Waitlists mean
-  the decision is effectively made the day we get a positive test.
-
-## Slide 39: We've Got This
+## Slide 38: We've Got This
 "None of this is easy. But people figure it out every year, and we will too. The
 fact we're sitting here going through all of it together is already a good sign."
 
-## Slide 40: Photo
+## Slide 39: Photo
 End on the high note. Say nothing.
