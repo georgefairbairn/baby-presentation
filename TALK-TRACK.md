@@ -137,7 +137,7 @@ This is the heart of the evening. Don't rush it and don't arrive with an answer.
   because the baby would be under her eight week buffer or she would be grounded
   at 35 weeks. May to early November fails Australia for the same two reasons.
 
-## Slide 9: Window One Is About One Cycle
+## Slide 9: Window One Is Short
 The honest slide. She'll appreciate it more than optimism.
 
 - We want to start now, and window one closes in about three weeks for a
